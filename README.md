@@ -108,4 +108,4 @@ Overall, the project demonstrates how a Data Analyst can transform raw business 
 # Demo
 ## Demo
 
-![Dashboard Preview](https://github.com/kumarakashsarkar007-code/HR-Analytics/blob/main/Folder/Snapshot%20of%20HR%20Analytics%20Dashboard.png)
+![Dashboard Preview](https://github.com/kumarakashsarkar007-code/HR-Analytics/blob/main/Folder/Snapshot%20of%20HR%20Dashboard.png)
