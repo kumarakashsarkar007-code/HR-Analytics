@@ -1,0 +1,42 @@
+1. Project Workflow: How Excel, SQL, and Power BI Were Used
+This project followed a strict, professional data analytics pipeline:
+Microsoft Excel (Data Cleaning, Preprocessing & Validation):
+Used for initial raw data inspection across the 4 core tables (Employees, Compensation, Job_details, and Job Satisfaction).
+Handled missing values, standardized text casing (such as Department and Gender categories), removed duplicate entries, and fixed table headers to ensure zero errors during database import.
+MySQL (Data Analysis & Business Logic / The 17 SQL Questions):
+Acted as the core analytical engine. Relational multi-table JOINs, aggregate functions (GROUP BY, AVG, SUM), conditional statements (CASE), correlated subqueries, and window functions (DENSE_RANK()) were executed to uncover deep workforce patterns, salary distributions, and flight risks.
+
+Power BI & DAX (Interactive Dashboard Visualization):
+Connected directly to the cleaned relational data sources to build an executive-grade dashboard.   
+SQL
+Leveraged DAX measures, star-schema modeling, and interactive slicers (Department, Job Role, Gender, Age Group, Education, Salary Slab) to empower HR leaders with real-time filtering and cross-highlighting.   
+
+SQL
+
+2. Key Findings & Business Insights from SQL & Dashboard Analysis
+Workforce Demographics & Headcount Distribution
+
+Total Workforce Scale: The organization maintains a total headcount of 1,470 employees with an overall company attrition rate of 16.12% and an average workforce age of 36.92 years.   
+SQL
++ 2
+
+Departmental Concentration (SQL Q1, Q13 & Q17): The Research & Development department holds the largest share of the workforce (918 employees), followed by Sales (433 employees) and Human Resources (57 employees).   
+PNG
++ 1
+
+Compensation & Salary Dynamics (SQL Q1, Q6, Q7, Q9, Q14 & Q15)
+Income Tier Segmentation (SQL Q9): Segmenting monthly income into tiers revealed that the majority of staff fall into the Mid-to-High income brackets, with executive-tier compensation tied strictly to senior job roles like Managers and Research Directors.
+
+Departmental Salary Baselines (SQL Q1): R&D and Sales lead average monthly earnings, which correlate closely with performance-based salary hikes and tenure (SQL Q7).
+Attrition Risk, Overtime & Job Satisfaction (SQL Q2, Q3, Q8, Q11 & Q12)
+The Overtime Penalty (SQL Q2): Employees working Overtime report lower average job satisfaction and environment satisfaction compared to non-overtime peers, directly driving flight risks.
+
+Career Stagnation (SQL Q3): Identifying employees with over 7 years at the company and zero promotions in 5+ years highlighted internal stagnation bottlenecks that require immediate intervention.
+Work-Life Balance Vulnerabilities (SQL Q8): Cross-referencing work-life balance scores with high business travel frequency pinpointed active employees at high risk of future turnover.
+
+3. Technical Problem Solving & Dashboard Optimization
+
+During the development of the Power BI dashboard, several visualization challenges were successfully resolved:
+Slicer & Category Mapping: Standardized text attributes in Excel to ensure all categories (such as Male/Female in donut charts and department slicers) populate cleanly without data drop-offs.
+Bar Chart Scale Adjustments: Fixed default aggregations (switching employee number sums to distinct counts) to prevent incorrect millions scaling on axes and adjusted inner padding to render prominent, professional bar widths.
+Visual Aesthetics: Eliminated bottom white padding gaps on card containers to achieve a clean, seamless executive visual finish.
