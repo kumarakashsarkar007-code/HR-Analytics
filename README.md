@@ -1,41 +1,106 @@
-**1. Project Workflow: How Excel, SQL, and Power BI Were Used
-**This project followed a strict, professional data analytics pipeline:
+# HR Analytics Project – Excel, SQL & Power BI
 
-**Microsoft Excel (Data Cleaning, Preprocessing & Validation):
-**Used for initial raw data inspection across the 4 core tables (Employees, Compensation, Job_details, and Job Satisfaction).
-Handled missing values, standardized text casing (such as Department and Gender categories), removed duplicate entries, and fixed table headers to ensure zero errors during database import.
+## Project Overview
+This HR Analytics project focuses on analyzing employee data to understand workforce trends, employee performance, attrition, salary patterns, department-wise information, and other HR-related factors. The project follows a complete data analytics workflow, starting with data preparation in **Microsoft Excel**, followed by analysis using **MySQL/SQL**, and finally creating an interactive **Power BI dashboard** to communicate insights clearly.
 
-**MySQL (Data Analysis & Business Logic / The 17 SQL Questions):
-**Acted as the core analytical engine. Relational multi-table JOINs, aggregate functions (GROUP BY, AVG, SUM), conditional statements (CASE), correlated subqueries, and window functions (DENSE_RANK()) were executed to uncover deep workforce patterns, salary distributions, and flight risks.
+## 1. Data Preparation & Analysis Using Exce
+The project started with **Microsoft Excel** to inspect, clean, and organize the raw HR data.
 
-**Power BI & DAX (Interactive Dashboard Visualization):
-**Connected directly to the cleaned relational data sources to build an executive-grade dashboard.   
-Leveraged DAX measures, star-schema modeling, and interactive slicers (Department, Job Role, Gender, Age Group, Education, Salary Slab) to empower HR leaders with real-time filtering and cross-highlighting.   
+Excel was used to:
 
-**SQL**
+* Check the structure and quality of the raw data.
+* Identify missing, duplicate, or inconsistent records.
+* Standardize data formats such as dates, department names, job roles, and employee information.
+* Perform basic calculations and data validation.
+* Sort and filter employee records for initial analysis.
+* Create preliminary summaries using Excel formulas and Pivot Tables.
+* Understand the important columns and relationships before moving the data into SQL.
 
-**Key Findings & Business Insights from SQL & Dashboard Analysis**
-Workforce Demographics & Headcount Distribution
-Total Workforce Scale: The organization maintains a total headcount of 1,470 employees with an overall company attrition rate of 16.12% and an average workforce age of 36.92 years.   
+### Problem Solved with Excel
+The raw HR data was difficult to analyze directly because information needed to be cleaned and organized first. Excel helped convert the raw dataset into a more structured and reliable format for further analysis.
 
-**Departmental Concentration (SQL Q1, Q13 & Q17):** The Research & Development department holds the largest share of the workforce (918 employees), followed by Sales (433 employees) and Human Resources (57 employees).   
-PNG
+---
 
-**Compensation & Salary Dynamics (SQL Q1, Q6, Q7, Q9, Q14 & Q15)
-Income Tier Segmentation (SQL Q9):** Segmenting monthly income into tiers revealed that the majority of staff fall into the Mid-to-High income brackets, with executive-tier compensation tied strictly to senior job roles like Managers and Research Directors.
+## 2. Data Analysis Using MySQL / SQL
+After preparing the data, SQL was used for deeper analysis and to answer business-related HR questions.
+The data was organized into related tables so that **SQL JOINs** could be practiced and used to combine information from different areas of the HR dataset.
 
-**Departmental Salary Baselines (SQL Q1):** R&D and Sales lead average monthly earnings, which correlate closely with performance-based salary hikes and tenure (SQL Q7).
+SQL was used for:
 
-**Attrition Risk, Overtime & Job Satisfaction (SQL Q2, Q3, Q8, Q11 & Q12)
-The Overtime Penalty (SQL Q2):** Employees working Overtime report lower average job satisfaction and environment satisfaction compared to non-overtime peers, directly driving flight risks.
+* Filtering employee records using `WHERE`.
+* Grouping data using `GROUP BY`.
+* Calculating metrics using `COUNT()`, `SUM()`, `AVG()`, `MIN()` and `MAX()`.
+* Combining related tables using `INNER JOIN` and `LEFT JOIN`.
+* Analyzing employees by department, role, salary and other attributes.
+* Comparing employee and department-level information.
+* Identifying patterns and trends in the workforce.
+* Using `CASE` statements for classification.
+* Using subqueries and aggregate calculations for deeper analysis.
 
-**Career Stagnation (SQL Q3):** Identifying employees with over 7 years at the company and zero promotions in 5+ years highlighted internal stagnation bottlenecks that require immediate intervention.
-Work-Life Balance Vulnerabilities (SQL Q8): Cross-referencing work-life balance scores with high business travel frequency pinpointed active employees at high risk of future turnover.
+### Problem Solved with SQL
+Excel is useful for preparation and basic analysis, but SQL makes it easier to work with structured relational data and perform repeatable, scalable analysis.
 
-**Technical Problem Solving & Dashboard Optimization
-**During the development of the Power BI dashboard, several visualization challenges were successfully resolved:
-Slicer & Category Mapping: Standardized text attributes in Excel to ensure all categories (such as Male/Female in donut charts and department slicers) populate cleanly without data drop-offs.
+SQL helped answer questions such as:
 
-Bar Chart Scale Adjustments: Fixed default aggregations (switching employee number sums to distinct counts) to prevent incorrect millions scaling on axes and adjusted inner padding to render prominent, professional bar widths.
+* How many employees are present in each department?
+* What is the average salary by department or role?
+* Which departments have higher employee turnover?
+* How are employees distributed across different job roles?
+* What patterns can be observed in employee performance and other HR metrics?
+* How do different employee attributes relate to HR outcomes?
 
-Visual Aesthetics: Eliminated bottom white padding gaps on card containers to achieve a clean, seamless executive visual finish.
+---
+
+## 3. Data Visualization Using Power BI
+
+After completing the SQL analysis, the processed data was brought into **Power BI** to create an interactive HR Analytics dashboard.
+
+Power BI was used to:
+
+* Create KPI cards for important HR metrics.
+* Visualize employee distribution.
+* Compare departments and job roles.
+* Analyze salary and workforce patterns.
+* Display attrition-related information.
+* Create charts for department-wise and role-wise analysis.
+* Add slicers and filters so users can interact with the dashboard.
+* Use DAX measures to calculate important business metrics.
+* Convert SQL findings into an easy-to-understand visual report.
+
+### Problem Solved with Power BI
+The main challenge was that large amounts of HR data and SQL results can be difficult for managers or non-technical users to understand from tables alone.
+Power BI solved this by converting the analysis into an **interactive visual dashboard**, allowing users to quickly filter the data and identify important workforce patterns.
+
+---
+
+# Key Insights from the Project
+The analysis provides insights into:
+
+* **Employee Distribution:** Understanding how employees are distributed across departments and job roles.
+* **Attrition:** Identifying departments, roles, or employee groups where attrition patterns can be investigated further.
+* **Salary Analysis:** Comparing salary levels across departments and job roles.
+* **Workforce Structure:** Understanding the composition of the organization's workforce.
+* **Performance:** Examining employee performance-related patterns across different groups.
+* **Department Comparison:** Comparing HR metrics between different departments.
+* **Employee Trends:** Identifying patterns that may require further investigation by HR teams.
+* **KPI Monitoring:** Providing HR stakeholders with a centralized view of important workforce metrics.
+
+These insights can help HR teams monitor workforce conditions, identify areas requiring attention, and support data-driven workforce planning.
+
+---
+
+# Overall Business Problem Solved
+The project addresses the problem of **HR data being spread across multiple records and being difficult to interpret quickly**.
+The complete analytics workflow transformed the raw data into:
+
+**Raw HR Data → Excel Cleaning → SQL Analysis → Power BI Dashboard → Business Insights**
+This made the information more structured, searchable, analyzable, and easier for decision-makers to understand.
+
+---
+
+# Conclusion
+
+This project demonstrates an end-to-end **Data Analytics workflow** using **Excel, MySQL/SQL, and Power BI**.
+Excel was used to **clean and prepare the data**, SQL was used to **store, join, query, and analyze the data**, and Power BI was used to **visualize the results through an interactive dashboard**.
+The final dashboard provides a consolidated view of important HR metrics and helps identify workforce patterns related to departments, employees, salaries, roles, attrition, and performance.
+Overall, the project demonstrates how a Data Analyst can transform raw business data into **structured information, meaningful analysis, and actionable business insights**.
