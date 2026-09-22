@@ -104,3 +104,8 @@ This project demonstrates an end-to-end **Data Analytics workflow** using **Exce
 Excel was used to **clean and prepare the data**, SQL was used to **store, join, query, and analyze the data**, and Power BI was used to **visualize the results through an interactive dashboard**.
 The final dashboard provides a consolidated view of important HR metrics and helps identify workforce patterns related to departments, employees, salaries, roles, attrition, and performance.
 Overall, the project demonstrates how a Data Analyst can transform raw business data into **structured information, meaningful analysis, and actionable business insights**.
+
+# Demo
+## Demo
+
+![Dashboard Preview](https://github.com/kumarakashsarkar007-code/HR-Analytics/blob/main/Folder/Snapshot%20of%20HR%20Analytics%20Dashboard.png)
