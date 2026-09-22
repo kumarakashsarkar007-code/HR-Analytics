@@ -1,0 +1,1471 @@
+emp_id,department,job_role,job_level,business_travel,over_time,years_at_company,years_in_current_role,years_since_last_promotion,years_with_curr_manager
+RM297,Research & Development,Laboratory Technician,1,Travel_Rarely,No,0,0,0,0
+RM302,Sales,Sales Representative,1,Travel_Rarely,No,0,0,0,0
+RM458,Sales,Sales Representative,1,Travel_Frequently,Yes,0,0,0,0
+RM728,Research & Development,Research Scientist,1,Non-Travel,No,0,0,0,0
+RM829,Research & Development,Laboratory Technician,1,Non-Travel,No,0,0,0,0
+RM973,Research & Development,Laboratory Technician,1,Non-Travel,No,0,0,0,0
+RM1154,Sales,Sales Representative,1,Travel_Frequently,Yes,0,0,0,0
+RM1312,Research & Development,Research Scientist,1,Non-Travel,No,0,0,0,0
+RM128,Sales,Sales Representative,1,Travel_Rarely,Yes,0,0,0,0
+RM150,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM423,Human Resources,Human Resources,1,Travel_Rarely,No,1,0,0,0
+RM689,Sales,Sales Representative,1,Travel_Rarely,Yes,1,0,0,0
+RM488,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM690,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM732,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,0,0
+RM371,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM664,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM018,Research & Development,Laboratory Technician,1,Non-Travel,Yes,1,0,0,0
+RM110,Research & Development,Laboratory Technician,1,Travel_Rarely,No,0,0,0,0
+RM861,Research & Development,Research Scientist,1,Travel_Frequently,Yes,0,0,0,0
+RM1274,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,0
+RM087,Sales,Sales Representative,1,Travel_Rarely,No,0,0,0,0
+RM587,Research & Development,Laboratory Technician,1,Non-Travel,No,1,0,0,0
+RM872,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM1061,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,0,0,0,0
+RM1062,Sales,Sales Representative,1,Non-Travel,No,1,0,0,0
+RM1223,Human Resources,Human Resources,1,Travel_Rarely,No,1,0,0,0
+RM684,Sales,Sales Representative,1,Travel_Rarely,Yes,1,0,0,0
+RM461,Sales,Sales Executive,2,Travel_Rarely,No,0,0,0,0
+RM464,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,0
+RM042,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM616,Research & Development,Research Scientist,1,Non-Travel,No,0,0,0,0
+RM971,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM1380,Human Resources,Human Resources,1,Travel_Frequently,No,1,0,0,0
+RM265,Research & Development,Laboratory Technician,1,Travel_Rarely,No,0,0,0,0
+RM801,Research & Development,Laboratory Technician,1,Travel_Frequently,No,1,0,0,0
+RM1069,Research & Development,Laboratory Technician,1,Travel_Frequently,No,0,0,0,0
+RM1070,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM1338,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM266,Sales,Sales Executive,2,Travel_Rarely,No,0,0,0,0
+RM547,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM590,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,0
+RM1105,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM1259,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM1330,Human Resources,Human Resources,1,Travel_Rarely,No,1,0,0,0
+RM1366,Sales,Sales Representative,1,Travel_Frequently,No,1,0,0,0
+RM382,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM481,Sales,Sales Representative,1,Travel_Frequently,No,1,0,0,0
+RM1053,Research & Development,Research Scientist,1,Non-Travel,No,1,0,0,0
+RM1339,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM440,Research & Development,Healthcare Representative,3,Travel_Frequently,No,1,0,0,0
+RM981,Sales,Sales Representative,1,Travel_Frequently,No,1,0,0,0
+RM1013,Sales,Sales Representative,1,Travel_Frequently,No,1,0,0,0
+RM1017,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM1258,Sales,Sales Executive,3,Travel_Rarely,No,1,0,0,0
+RM1313,Human Resources,Human Resources,1,Travel_Rarely,No,1,0,0,0
+RM1403,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,0
+RM102,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM851,Sales,Sales Representative,1,Non-Travel,No,1,0,0,0
+RM1206,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM1238,Sales,Sales Executive,2,Travel_Rarely,No,0,0,0,0
+RM1320,Sales,Sales Executive,2,Travel_Frequently,No,0,0,0,0
+RM364,Sales,Sales Representative,1,Travel_Rarely,Yes,1,0,0,0
+RM1075,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,0,0,0,0
+RM115,Research & Development,Research Scientist,2,Travel_Rarely,No,1,0,0,0
+RM561,Research & Development,Manufacturing Director,2,Travel_Rarely,No,0,0,0,0
+RM804,Research & Development,Research Scientist,1,Non-Travel,No,0,0,0,0
+RM907,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM1116,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM041,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM516,Research & Development,Laboratory Technician,1,Non-Travel,No,1,0,0,0
+RM558,Research & Development,Healthcare Representative,2,Non-Travel,No,1,0,0,0
+RM1060,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM1111,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,0
+RM299,Research & Development,Laboratory Technician,1,Travel_Frequently,No,1,0,0,0
+RM762,Research & Development,Laboratory Technician,2,Travel_Rarely,No,1,0,0,0
+RM1122,Sales,Sales Executive,2,Travel_Rarely,No,1,0,0,0
+RM003,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,0,0,0,0
+RM105,Research & Development,Healthcare Representative,2,Non-Travel,No,1,0,0,0
+RM523,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM629,Sales,Sales Executive,2,Travel_Rarely,No,1,0,0,0
+RM745,Research & Development,Healthcare Representative,2,Travel_Rarely,No,1,0,0,0
+RM796,Sales,Sales Executive,2,Travel_Rarely,Yes,1,0,0,0
+RM199,Research & Development,Manufacturing Director,2,Travel_Rarely,No,1,0,0,0
+RM205,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,1,0,0,0
+RM472,Research & Development,Healthcare Representative,2,Travel_Rarely,No,1,0,0,0
+RM491,Research & Development,Research Scientist,1,Travel_Rarely,No,0,0,0,0
+RM543,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,1,0,0,0
+RM748,Sales,Sales Executive,2,Travel_Rarely,Yes,1,0,0,0
+RM812,Sales,Sales Executive,3,Travel_Rarely,No,1,0,0,0
+RM1203,Research & Development,Laboratory Technician,1,Travel_Rarely,No,0,0,0,0
+RM1392,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM034,Sales,Sales Representative,2,Travel_Rarely,No,1,0,0,0
+RM328,Sales,Sales Executive,2,Travel_Rarely,Yes,1,0,0,0
+RM602,Research & Development,Laboratory Technician,2,Travel_Frequently,No,1,0,0,0
+RM685,Sales,Sales Executive,3,Travel_Rarely,No,1,0,0,0
+RM707,Sales,Sales Executive,4,Non-Travel,Yes,1,0,0,0
+RM867,Sales,Sales Executive,2,Travel_Frequently,No,0,0,0,0
+RM1230,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,1,0,0,0
+RM1428,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM216,Sales,Manager,3,Travel_Rarely,Yes,1,0,0,0
+RM243,Research & Development,Research Scientist,2,Travel_Rarely,No,1,0,0,0
+RM831,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,0
+RM865,Research & Development,Research Scientist,1,Non-Travel,No,1,0,0,0
+RM349,Research & Development,Research Director,4,Travel_Rarely,No,1,0,0,0
+RM742,Sales,Manager,5,Travel_Rarely,No,1,0,0,0
+RM825,Research & Development,Laboratory Technician,2,Travel_Rarely,No,1,0,0,0
+RM888,Research & Development,Research Director,3,Travel_Frequently,Yes,1,0,0,0
+RM926,Research & Development,Research Scientist,2,Travel_Rarely,Yes,1,0,0,0
+RM1089,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM1288,Research & Development,Healthcare Representative,2,Travel_Rarely,No,0,0,0,0
+RM1326,Research & Development,Laboratory Technician,1,Travel_Rarely,No,0,0,0,0
+RM1379,Sales,Sales Executive,2,Travel_Rarely,Yes,0,0,0,0
+RM334,Research & Development,Healthcare Representative,3,Travel_Rarely,No,1,0,0,0
+RM490,Research & Development,Research Director,4,Travel_Rarely,Yes,1,0,0,0
+RM776,Sales,Sales Executive,3,Travel_Rarely,No,1,0,0,0
+RM1263,Research & Development,Research Scientist,1,Travel_Frequently,Yes,1,0,0,0
+RM863,Research & Development,Research Scientist,1,Non-Travel,No,0,0,0,0
+RM1052,Sales,Sales Executive,2,Travel_Frequently,No,1,0,0,0
+RM068,Research & Development,Research Scientist,3,Travel_Rarely,No,1,0,0,0
+RM604,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM366,Research & Development,Manufacturing Director,2,Non-Travel,No,1,0,0,0
+RM348,Sales,Sales Representative,2,Travel_Frequently,No,0,0,0,0
+RM1235,Sales,Sales Executive,2,Non-Travel,No,1,0,0,0
+RM051,Research & Development,Laboratory Technician,3,Travel_Rarely,Yes,1,0,0,0
+RM679,Research & Development,Research Scientist,1,Travel_Rarely,No,0,0,0,0
+RM902,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM905,Research & Development,Research Director,5,Travel_Rarely,No,1,0,0,0
+RM900,Research & Development,Manager,5,Travel_Rarely,No,1,0,0,0
+RM743,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM802,Sales,Sales Executive,2,Travel_Frequently,Yes,0,0,0,0
+RM1127,Sales,Manager,5,Travel_Rarely,Yes,1,0,0,0
+RM157,Research & Development,Manufacturing Director,2,Travel_Rarely,No,1,0,0,0
+RM432,Research & Development,Laboratory Technician,2,Travel_Rarely,No,1,0,0,0
+RM1265,Research & Development,Research Director,5,Travel_Rarely,No,1,0,0,0
+RM1372,Sales,Sales Executive,2,Travel_Rarely,No,0,0,0,0
+RM425,Sales,Manager,4,Travel_Rarely,No,1,0,0,0
+RM661,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,1,0,0,0
+RM1375,Sales,Manager,4,Travel_Rarely,Yes,1,0,0,0
+RM226,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM172,Sales,Sales Representative,1,Travel_Frequently,No,0,0,0,0
+RM1340,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,0,0
+RM586,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,0,0,0,0
+RM477,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM1119,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM765,Sales,Sales Representative,1,Travel_Rarely,No,1,0,0,0
+RM712,Research & Development,Research Scientist,1,Travel_Rarely,Yes,0,0,0,0
+RM386,Research & Development,Research Scientist,1,Travel_Frequently,Yes,1,0,0,0
+RM502,Research & Development,Research Scientist,1,Travel_Frequently,No,1,0,0,0
+RM603,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,0,0,0,0
+RM1395,Research & Development,Manufacturing Director,2,Travel_Rarely,No,1,0,0,0
+RM1256,Sales,Sales Executive,3,Travel_Rarely,Yes,0,0,0,0
+RM119,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,0
+RM1316,Research & Development,Research Scientist,2,Travel_Rarely,Yes,1,0,0,0
+RM048,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM417,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,1,0,0,0
+RM1033,Research & Development,Laboratory Technician,1,Non-Travel,Yes,1,0,0,0
+RM392,Research & Development,Laboratory Technician,2,Travel_Rarely,No,1,0,0,0
+RM357,Research & Development,Healthcare Representative,2,Travel_Rarely,No,1,0,0,0
+RM662,Research & Development,Manufacturing Director,2,Travel_Rarely,No,1,0,0,0
+RM287,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,1,0,0,0
+RM937,Research & Development,Manager,5,Travel_Frequently,No,0,0,0,0
+RM353,Sales,Manager,3,Travel_Rarely,No,0,0,0,0
+RM158,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,0,0
+RM701,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,0
+RM1210,Research & Development,Healthcare Representative,3,Travel_Rarely,No,1,0,0,0
+RM910,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,0,1
+RM024,Research & Development,Research Scientist,1,Travel_Rarely,No,0,0,0,
+RM911,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,1
+RM043,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,1
+RM1189,Sales,Sales Executive,2,Travel_Rarely,Yes,10,0,0,9
+RM008,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,
+RM1234,Research & Development,Research Scientist,1,Travel_Rarely,No,10,0,0,8
+RM1192,Sales,Sales Executive,2,Travel_Rarely,No,10,0,0,2
+RM352,Research & Development,Laboratory Technician,1,Travel_Rarely,No,8,0,0,7
+RM638,Research & Development,Laboratory Technician,1,Non-Travel,No,3,0,0,2
+RM657,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,1
+RM683,Research & Development,Laboratory Technician,1,Non-Travel,No,3,0,0,2
+RM050,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,1
+RM193,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,1,0,0,1
+RM1135,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,1
+RM070,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,0,
+RM075,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,0,
+RM359,Sales,Sales Executive,2,Non-Travel,No,1,0,0,
+RM251,Research & Development,Manufacturing Director,3,Travel_Frequently,No,1,0,0,
+RM390,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,1,0,0,1
+RM653,Sales,Sales Executive,3,Non-Travel,Yes,10,0,0,9
+RM560,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,0,1
+RM459,Sales,Sales Executive,3,Non-Travel,No,1,0,0,1
+RM1197,Sales,Sales Executive,3,Travel_Rarely,Yes,2,0,0,2
+RM1130,Research & Development,Manager,5,Travel_Rarely,No,1,0,0,1
+RM078,Research & Development,Research Director,3,Travel_Rarely,Yes,0,0,0,
+RM1244,Human Resources,Human Resources,3,Travel_Rarely,No,5,0,0,3
+RM1136,Sales,Manager,4,Travel_Rarely,No,26,0,0,12
+RM429,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,0,0,4
+RM720,Sales,Sales Executive,2,Travel_Rarely,Yes,9,0,0,7
+RM234,Sales,Manager,5,Travel_Rarely,No,7,0,0,6
+RM259,Research & Development,Research Scientist,1,Travel_Rarely,No,1,0,0,
+RM066,Research & Development,Manager,4,Travel_Rarely,Yes,5,0,0,2
+RM675,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,6,0,0,4
+RM007,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,0,0,
+RM777,Sales,Sales Representative,1,Travel_Frequently,Yes,2,2,0,2
+RM975,Sales,Sales Executive,2,Travel_Frequently,No,6,2,0,0
+RM922,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,4,2,0,2
+RM1073,Research & Development,Laboratory Technician,1,Travel_Frequently,No,3,2,0,2
+RM1251,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes,3,2,0,2
+RM1145,Sales,Sales Executive,2,Travel_Frequently,No,5,2,0,3
+RM803,Sales,Sales Executive,2,Travel_Frequently,No,3,2,0,2
+RM379,Sales,Sales Executive,2,Non-Travel,Yes,5,2,0,4
+RM441,Human Resources,Human Resources,3,Travel_Frequently,Yes,3,2,0,2
+RM795,Research & Development,Healthcare Representative,2,Travel_Frequently,No,6,2,0,4
+RM823,Research & Development,Manufacturing Director,2,Travel_Frequently,No,3,2,0,2
+RM821,Sales,Sales Executive,2,Travel_Frequently,No,5,2,0,2
+RM1457,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes,10,2,0,2
+RM1129,Research & Development,Laboratory Technician,2,Travel_Frequently,Yes,3,2,0,2
+RM1441,Research & Development,Manufacturing Director,2,Travel_Frequently,No,4,2,0,2
+RM1466,Research & Development,Laboratory Technician,2,Travel_Frequently,No,5,2,0,3
+RM276,Research & Development,Research Director,3,Non-Travel,Yes,5,2,0,2
+RM983,Research & Development,Research Scientist,1,Travel_Frequently,No,4,2,0,3
+RM209,Research & Development,Healthcare Representative,2,Non-Travel,No,3,2,0,
+RM958,Research & Development,Research Scientist,1,Non-Travel,No,4,2,0,0
+RM1043,Research & Development,Laboratory Technician,1,Non-Travel,No,5,2,0,3
+RM250,Research & Development,Manufacturing Director,2,Travel_Frequently,No,3,2,0,
+RM1363,Research & Development,Healthcare Representative,2,Travel_Frequently,No,4,2,0,3
+RM137,Research & Development,Manufacturing Director,3,Travel_Frequently,No,4,2,0,3
+RM1269,Research & Development,Manufacturing Director,4,Non-Travel,Yes,3,2,0,2
+RM663,Sales,Sales Representative,1,Travel_Rarely,No,2,2,0,2
+RM667,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,3,2,0,2
+RM1214,Sales,Sales Representative,1,Travel_Rarely,Yes,3,2,0,2
+RM406,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,0,
+RM289,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,3,2,0,2
+RM015,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,4,2,0,3
+RM646,Sales,Sales Representative,1,Travel_Rarely,Yes,3,2,0,2
+RM215,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,2,0,4
+RM721,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,2,0,1
+RM592,Sales,Sales Executive,2,Travel_Rarely,No,3,2,0,2
+RM830,Sales,Sales Executive,2,Travel_Rarely,Yes,5,2,0,3
+RM726,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,4,2,0,2
+RM101,Human Resources,Human Resources,1,Travel_Rarely,Yes,3,2,0,2
+RM941,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,0,3
+RM1172,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,4,2,0,3
+RM037,Sales,Sales Representative,1,Travel_Rarely,Yes,3,2,0,2
+RM1198,Sales,Sales Representative,1,Travel_Rarely,No,2,2,0,2
+RM346,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,0,2
+RM517,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,0,2
+RM566,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,0,2
+RM097,Sales,Sales Executive,2,Travel_Rarely,No,3,2,0,2
+RM381,Sales,Sales Executive,2,Travel_Rarely,Yes,5,2,0,3
+RM639,Sales,Sales Executive,2,Travel_Rarely,No,5,2,0,3
+RM1004,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,0,2
+RM1414,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,2,2,0,2
+RM055,Sales,Sales Executive,2,Travel_Rarely,Yes,2,2,0,0
+RM419,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,0,2
+RM506,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,3,2,0,2
+RM1225,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,0,2
+RM1465,Sales,Sales Representative,1,Travel_Rarely,No,4,2,0,0
+RM374,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,2,0,4
+RM1170,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,0,2
+RM1468,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,6,2,0,3
+RM163,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,0,2
+RM273,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,0,4
+RM660,Sales,Sales Executive,2,Travel_Rarely,No,4,2,0,2
+RM255,Sales,Sales Executive,2,Travel_Rarely,No,3,2,0,
+RM421,Research & Development,Research Director,3,Travel_Rarely,No,10,2,0,7
+RM582,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,0,2
+RM783,Research & Development,Manufacturing Director,2,Travel_Rarely,No,6,2,0,2
+RM1014,Sales,Sales Executive,2,Travel_Rarely,No,3,2,0,2
+RM181,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,2,0,2
+RM310,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,2,0,3
+RM1036,Human Resources,Human Resources,1,Travel_Rarely,No,3,2,0,2
+RM1228,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,2,0,3
+RM1248,Sales,Sales Executive,2,Travel_Rarely,No,5,2,0,2
+RM017,Research & Development,Research Scientist,1,Travel_Rarely,Yes,6,2,0,5
+RM263,Research & Development,Laboratory Technician,2,Travel_Rarely,No,6,2,0,4
+RM623,Sales,Sales Executive,2,Travel_Rarely,No,5,2,0,3
+RM1076,Research & Development,Manager,3,Travel_Rarely,No,5,2,0,0
+RM1140,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,0,2
+RM247,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,0,2
+RM674,Research & Development,Research Scientist,1,Travel_Rarely,Yes,3,2,0,2
+RM713,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,0,2
+RM1190,Sales,Sales Executive,2,Travel_Rarely,No,6,2,0,4
+RM495,Sales,Sales Representative,1,Travel_Rarely,Yes,8,2,0,6
+RM614,Human Resources,Human Resources,1,Travel_Rarely,No,3,2,0,2
+RM918,Sales,Sales Executive,2,Travel_Rarely,Yes,3,2,0,2
+RM1360,Sales,Sales Executive,2,Travel_Rarely,Yes,4,2,0,1
+RM484,Research & Development,Laboratory Technician,2,Travel_Rarely,No,3,2,0,2
+RM581,Sales,Sales Representative,1,Travel_Rarely,No,3,2,0,2
+RM1124,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,5,2,0,4
+RM1346,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,3,2,0,2
+RM136,Research & Development,Manufacturing Director,2,Travel_Rarely,No,3,2,0,1
+RM512,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,3,2,0,2
+RM600,Human Resources,Human Resources,1,Travel_Rarely,No,5,2,0,4
+RM681,Research & Development,Research Scientist,1,Travel_Rarely,No,6,2,0,1
+RM1020,Sales,Sales Executive,2,Travel_Rarely,No,3,2,0,2
+RM1174,Research & Development,Healthcare Representative,3,Travel_Rarely,No,3,2,0,2
+RM1200,Research & Development,Healthcare Representative,2,Travel_Rarely,No,3,2,0,2
+RM079,Research & Development,Research Director,3,Travel_Rarely,No,5,2,0,2
+RM341,Research & Development,Manufacturing Director,2,Travel_Rarely,No,6,2,0,4
+RM1002,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,0,2
+RM1277,Sales,Sales Executive,2,Travel_Rarely,No,5,2,0,3
+RM1309,Sales,Sales Representative,2,Travel_Rarely,Yes,4,2,0,3
+RM1377,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,0,3
+RM968,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,2,0,3
+RM1029,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,2,0,3
+RM254,Research & Development,Research Scientist,2,Travel_Rarely,Yes,3,2,0,
+RM397,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,5,2,0,2
+RM494,Human Resources,Human Resources,2,Travel_Rarely,No,2,2,0,2
+RM498,Research & Development,Manager,5,Travel_Rarely,Yes,2,2,0,1
+RM632,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,3,2,0,2
+RM408,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,0,
+RM855,Research & Development,Research Scientist,1,Travel_Rarely,Yes,3,2,0,2
+RM080,Human Resources,Human Resources,2,Travel_Rarely,Yes,4,2,0,2
+RM210,Research & Development,Healthcare Representative,3,Travel_Rarely,No,4,2,0,
+RM430,Research & Development,Research Director,4,Travel_Rarely,No,3,2,0,1
+RM870,Research & Development,Research Director,5,Travel_Rarely,No,4,2,0,3
+RM493,Research & Development,Manager,4,Travel_Rarely,No,3,2,0,2
+RM376,Research & Development,Healthcare Representative,3,Travel_Rarely,No,5,2,0,0
+RM640,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,0,2
+RM184,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,0,2
+RM088,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,2,0,3
+RM972,Research & Development,Manufacturing Director,4,Travel_Rarely,No,5,2,0,3
+RM625,Sales,Sales Executive,3,Travel_Rarely,Yes,5,2,0,4
+RM220,Sales,Sales Executive,2,Travel_Rarely,No,6,2,0,5
+RM1337,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,0,4
+RM893,Research & Development,Research Scientist,1,Non-Travel,Yes,1,1,0,0
+RM1175,Research & Development,Manufacturing Director,2,Travel_Frequently,No,7,7,0,7
+RM067,Research & Development,Manufacturing Director,2,Travel_Frequently,No,6,5,0,3
+RM306,Research & Development,Laboratory Technician,2,Non-Travel,No,9,8,0,8
+RM542,Research & Development,Research Director,3,Non-Travel,No,8,7,0,5
+RM570,Sales,Sales Executive,3,Non-Travel,No,10,7,0,9
+RM709,Sales,Sales Executive,2,Non-Travel,No,7,7,0,7
+RM818,Research & Development,Manufacturing Director,2,Non-Travel,No,11,9,0,9
+RM901,Research & Development,Research Scientist,1,Travel_Frequently,No,11,10,0,7
+RM1348,Human Resources,Human Resources,2,Travel_Frequently,No,10,1,0,8
+RM1384,Research & Development,Laboratory Technician,1,Non-Travel,No,5,4,0,2
+RM223,Research & Development,Research Director,3,Travel_Frequently,Yes,10,8,0,7
+RM649,Sales,Sales Representative,1,Travel_Frequently,No,5,4,0,0
+RM723,Research & Development,Research Scientist,1,Travel_Frequently,No,2,1,0,2
+RM1257,Research & Development,Laboratory Technician,1,Travel_Frequently,No,6,1,0,5
+RM1374,Research & Development,Research Scientist,2,Travel_Frequently,Yes,20,11,0,7
+RM450,Research & Development,Laboratory Technician,1,Travel_Frequently,No,8,3,0,7
+RM817,Research & Development,Laboratory Technician,2,Non-Travel,No,5,4,0,3
+RM993,Research & Development,Healthcare Representative,3,Non-Travel,No,6,4,0,5
+RM692,Research & Development,Research Scientist,1,Travel_Frequently,Yes,1,1,0,0
+RM846,Research & Development,Research Scientist,2,Travel_Frequently,Yes,1,1,0,0
+RM1030,Research & Development,Laboratory Technician,2,Non-Travel,No,8,7,0,7
+RM460,Research & Development,Healthcare Representative,2,Non-Travel,Yes,8,7,0,7
+RM717,Research & Development,Research Director,5,Travel_Frequently,No,18,16,0,11
+RM198,Research & Development,Manufacturing Director,2,Non-Travel,No,5,3,0,2
+RM410,Research & Development,Research Scientist,2,Travel_Frequently,No,5,4,0,2
+RM414,Research & Development,Healthcare Representative,2,Travel_Frequently,No,6,5,0,4
+RM879,Human Resources,Human Resources,2,Non-Travel,No,4,3,0,3
+RM331,Research & Development,Laboratory Technician,2,Travel_Frequently,No,9,7,0,0
+RM813,Research & Development,Manufacturing Director,3,Travel_Frequently,No,8,7,0,1
+RM1166,Human Resources,Human Resources,2,Travel_Frequently,Yes,10,7,0,2
+RM505,Sales,Sales Executive,2,Travel_Frequently,No,1,1,0,0
+RM697,Research & Development,Laboratory Technician,2,Non-Travel,No,9,7,0,8
+RM719,Research & Development,Laboratory Technician,2,Non-Travel,Yes,9,8,0,8
+RM049,Sales,Sales Executive,2,Travel_Frequently,Yes,9,6,0,8
+RM1469,Sales,Sales Executive,2,Travel_Frequently,No,9,6,0,8
+RM107,Research & Development,Research Director,5,Travel_Frequently,Yes,8,3,0,7
+RM752,Sales,Sales Executive,2,Non-Travel,No,18,7,0,13
+RM1453,Sales,Sales Executive,2,Travel_Frequently,No,6,3,0,1
+RM628,Research & Development,Manufacturing Director,4,Travel_Frequently,No,9,8,0,0
+RM995,Research & Development,Manufacturing Director,4,Travel_Frequently,Yes,5,3,0,2
+RM1435,Sales,Sales Representative,1,Non-Travel,No,9,8,0,0
+RM333,Research & Development,Research Scientist,2,Travel_Frequently,No,4,3,0,3
+RM773,Research & Development,Research Scientist,1,Travel_Frequently,No,5,4,0,3
+RM108,Sales,Sales Executive,2,Travel_Rarely,Yes,6,4,0,3
+RM022,Sales,Sales Representative,1,Travel_Rarely,No,5,3,0,3
+RM1292,Research & Development,Manufacturing Director,2,Travel_Rarely,No,10,3,0,8
+RM001,Sales,Sales Executive,2,Travel_Rarely,Yes,6,4,0,5
+RM183,Sales,Sales Representative,1,Travel_Rarely,Yes,4,3,0,2
+RM858,Research & Development,Research Scientist,1,Travel_Rarely,Yes,6,4,0,2
+RM929,Research & Development,Healthcare Representative,3,Travel_Rarely,No,10,7,0,5
+RM1334,Sales,Sales Executive,3,Travel_Rarely,No,8,7,0,7
+RM854,Research & Development,Research Scientist,1,Travel_Rarely,No,1,1,0,0
+RM551,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,0,2
+RM1026,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,0,3
+RM1098,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,1,0,0
+RM1218,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,4
+RM479,Sales,Sales Representative,1,Travel_Rarely,No,7,4,0,6
+RM619,Research & Development,Research Scientist,1,Travel_Rarely,No,4,3,0,1
+RM635,Sales,Sales Executive,2,Travel_Rarely,Yes,5,3,0,3
+RM1434,Sales,Sales Executive,2,Travel_Rarely,Yes,5,3,0,4
+RM039,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,1,0,0
+RM594,Research & Development,Manufacturing Director,2,Travel_Rarely,No,9,7,0,5
+RM634,Human Resources,Human Resources,1,Travel_Rarely,No,5,4,0,3
+RM1012,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,0,1
+RM1184,Research & Development,Healthcare Representative,2,Travel_Rarely,No,5,4,0,4
+RM1454,Sales,Sales Executive,2,Travel_Rarely,No,6,3,0,0
+RM060,Research & Development,Manufacturing Director,2,Travel_Rarely,No,7,5,0,7
+RM249,Research & Development,Research Scientist,1,Travel_Rarely,No,3,1,0,
+RM274,Sales,Sales Executive,2,Travel_Rarely,No,5,4,0,1
+RM365,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,3
+RM768,Research & Development,Healthcare Representative,2,Travel_Rarely,No,4,3,0,1
+RM1159,Research & Development,Manufacturing Director,2,Travel_Rarely,No,4,3,0,2
+RM1345,Research & Development,Research Scientist,2,Travel_Rarely,Yes,5,3,0,4
+RM169,Sales,Sales Executive,2,Travel_Rarely,No,8,3,0,7
+RM308,Research & Development,Research Director,3,Travel_Rarely,No,10,8,0,1
+RM519,Sales,Sales Executive,2,Travel_Rarely,No,7,7,0,5
+RM1162,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,5,4,0,2
+RM1273,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,4
+RM655,Human Resources,Human Resources,2,Travel_Rarely,No,5,4,0,4
+RM706,Sales,Sales Executive,3,Travel_Rarely,No,8,7,0,7
+RM1156,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,8,0,7
+RM336,Sales,Sales Executive,2,Travel_Rarely,Yes,4,3,0,2
+RM1287,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,0,2
+RM1300,Research & Development,Healthcare Representative,2,Travel_Rarely,No,5,3,0,3
+RM1458,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,2
+RM134,Sales,Sales Executive,3,Travel_Rarely,Yes,9,7,0,7
+RM301,Sales,Manager,4,Travel_Rarely,No,22,10,0,4
+RM404,Sales,Sales Executive,3,Travel_Rarely,No,10,7,0,
+RM784,Research & Development,Research Scientist,1,Travel_Rarely,No,10,6,0,8
+RM1267,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,0,4
+RM1446,Research & Development,Manufacturing Director,4,Travel_Rarely,No,20,7,0,10
+RM1449,Sales,Sales Executive,2,Travel_Rarely,No,5,4,0,4
+RM598,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,4,3,0,2
+RM673,Sales,Sales Executive,2,Travel_Rarely,No,5,4,0,3
+RM1000,Human Resources,Manager,4,Travel_Rarely,No,20,7,0,9
+RM1264,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,0,4
+RM899,Research & Development,Research Director,5,Travel_Rarely,No,8,7,0,7
+RM1134,Research & Development,Laboratory Technician,1,Travel_Rarely,No,6,4,0,2
+RM1400,Research & Development,Healthcare Representative,3,Travel_Rarely,No,10,9,0,9
+RM142,Research & Development,Research Scientist,1,Travel_Rarely,No,6,5,0,
+RM154,Research & Development,Laboratory Technician,2,Travel_Rarely,No,17,9,0,15
+RM175,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,0,3
+RM626,Sales,Sales Executive,3,Travel_Rarely,Yes,5,4,0,2
+RM714,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,0,2
+RM760,Human Resources,Human Resources,1,Travel_Rarely,No,6,3,0,4
+RM1035,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,7,7,0,7
+RM1093,Research & Development,Research Scientist,1,Travel_Rarely,No,5,4,0,3
+RM1455,Sales,Sales Executive,2,Travel_Rarely,No,5,3,0,1
+RM413,Research & Development,Manufacturing Director,2,Travel_Rarely,No,10,7,0,8
+RM724,Research & Development,Manufacturing Director,3,Travel_Rarely,No,8,7,0,7
+RM917,Sales,Manager,5,Travel_Rarely,No,11,4,0,8
+RM1232,Research & Development,Healthcare Representative,2,Travel_Rarely,No,10,7,0,9
+RM1236,Sales,Sales Executive,3,Travel_Rarely,Yes,10,6,0,3
+RM970,Research & Development,Manufacturing Director,3,Travel_Rarely,No,10,9,0,8
+RM317,Research & Development,Healthcare Representative,4,Travel_Rarely,Yes,7,1,0,7
+RM474,Research & Development,Research Director,5,Travel_Rarely,Yes,31,9,0,9
+RM1055,Research & Development,Healthcare Representative,3,Travel_Rarely,No,8,7,0,7
+RM1196,Research & Development,Manager,4,Travel_Rarely,No,8,7,0,0
+RM1255,Sales,Sales Executive,2,Travel_Rarely,No,5,1,0,4
+RM589,Research & Development,Research Director,4,Travel_Rarely,No,4,3,0,3
+RM377,Sales,Sales Executive,2,Travel_Rarely,No,7,7,0,7
+RM963,Human Resources,Manager,4,Travel_Rarely,Yes,33,9,0,10
+RM407,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,5,4,0,
+RM1001,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,4
+RM096,Research & Development,Research Director,3,Travel_Rarely,No,4,3,0,3
+RM729,Research & Development,Manufacturing Director,3,Travel_Rarely,No,10,7,0,8
+RM895,Research & Development,Research Director,4,Travel_Rarely,No,10,9,0,9
+RM284,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,10,7,0,8
+RM1011,Research & Development,Research Director,4,Travel_Rarely,No,7,7,0,0
+RM086,Research & Development,Manufacturing Director,3,Travel_Rarely,No,6,4,0,2
+RM759,Sales,Manager,3,Travel_Rarely,Yes,6,4,0,4
+RM898,Sales,Sales Executive,2,Travel_Rarely,No,6,1,0,5
+RM844,Research & Development,Laboratory Technician,1,Travel_Rarely,No,8,7,0,7
+RM1005,Research & Development,Laboratory Technician,1,Travel_Rarely,No,7,7,0,7
+RM192,Research & Development,Research Scientist,1,Travel_Rarely,No,7,7,0,3
+RM321,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,0,4
+RM340,Sales,Sales Executive,2,Travel_Rarely,No,8,7,0,7
+RM486,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,3
+RM531,Research & Development,Manufacturing Director,3,Travel_Rarely,No,9,7,0,7
+RM555,Research & Development,Healthcare Representative,2,Travel_Rarely,No,7,6,0,7
+RM611,Research & Development,Research Director,3,Travel_Rarely,Yes,9,8,0,8
+RM671,Research & Development,Research Scientist,1,Travel_Rarely,No,1,1,0,0
+RM903,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,3
+RM1150,Research & Development,Laboratory Technician,1,Travel_Rarely,No,7,7,0,7
+RM1351,Sales,Sales Executive,2,Travel_Rarely,No,8,7,0,7
+RM1394,Sales,Sales Executive,2,Travel_Rarely,No,7,7,0,7
+RM290,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,2
+RM303,Research & Development,Healthcare Representative,2,Travel_Rarely,No,8,3,0,7
+RM375,Sales,Sales Executive,2,Travel_Rarely,No,7,5,0,7
+RM630,Human Resources,Human Resources,1,Travel_Rarely,No,5,1,0,4
+RM820,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,4
+RM985,Sales,Sales Executive,2,Travel_Rarely,No,5,3,0,4
+RM1152,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,3,0,0
+RM1284,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,0,3
+RM012,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,9,5,0,8
+RM072,Research & Development,Research Scientist,1,Travel_Rarely,No,5,4,0,
+RM595,Research & Development,Research Scientist,1,Travel_Rarely,No,10,7,0,7
+RM658,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,0,3
+RM853,Research & Development,Laboratory Technician,1,Travel_Rarely,No,10,8,0,8
+RM1006,Human Resources,Human Resources,3,Travel_Rarely,No,10,9,0,9
+RM1064,Sales,Sales Executive,2,Travel_Rarely,No,10,7,0,4
+RM1091,Research & Development,Healthcare Representative,2,Travel_Rarely,No,7,7,0,7
+RM1388,Research & Development,Healthcare Representative,2,Travel_Rarely,No,5,3,0,2
+RM1460,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,4,3,0,3
+RM1461,Research & Development,Research Scientist,1,Travel_Rarely,No,5,4,0,4
+RM144,Research & Development,Research Scientist,1,Travel_Rarely,No,5,4,0,
+RM411,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,4,0,2
+RM866,Sales,Sales Executive,2,Travel_Rarely,No,4,3,0,3
+RM949,Research & Development,Manager,3,Travel_Rarely,Yes,9,1,0,8
+RM1297,Research & Development,Manufacturing Director,3,Travel_Rarely,No,7,7,0,2
+RM435,Research & Development,Manufacturing Director,3,Travel_Rarely,No,13,8,0,8
+RM451,Sales,Sales Executive,2,Travel_Rarely,Yes,6,5,0,5
+RM457,Sales,Manager,3,Travel_Rarely,No,5,4,0,1
+RM645,Research & Development,Research Scientist,1,Travel_Rarely,Yes,6,4,0,2
+RM896,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,6,5,0,1
+RM1342,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,8,0,2
+RM074,Research & Development,Research Scientist,2,Travel_Rarely,No,10,4,0,
+RM323,Research & Development,Research Scientist,2,Travel_Rarely,No,7,7,0,7
+RM501,Research & Development,Research Scientist,2,Travel_Rarely,Yes,6,4,0,5
+RM528,Sales,Sales Executive,2,Travel_Rarely,No,10,7,0,8
+RM936,Sales,Sales Executive,2,Travel_Rarely,No,10,7,0,8
+RM1027,Sales,Sales Executive,2,Travel_Rarely,No,4,3,0,3
+RM1242,Sales,Sales Executive,3,Travel_Rarely,No,4,3,0,2
+RM031,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,1,0,
+RM177,Research & Development,Research Scientist,1,Travel_Rarely,No,3,1,0,2
+RM456,Research & Development,Research Director,4,Travel_Rarely,No,6,1,0,5
+RM620,Sales,Sales Executive,2,Travel_Rarely,No,9,8,0,8
+RM656,Human Resources,Human Resources,1,Travel_Rarely,Yes,4,3,0,3
+RM909,Sales,Sales Executive,3,Travel_Rarely,Yes,9,8,0,8
+RM1067,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,2
+RM1092,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,3,0,2
+RM1364,Sales,Sales Executive,2,Travel_Rarely,No,10,4,0,9
+RM758,Sales,Sales Executive,2,Travel_Rarely,No,15,1,0,9
+RM764,Sales,Sales Representative,1,Travel_Rarely,Yes,1,1,0,0
+RM1028,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,2
+RM011,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,3
+RM082,Research & Development,Research Scientist,1,Travel_Rarely,No,6,4,0,4
+RM152,Sales,Sales Executive,3,Travel_Rarely,No,10,8,0,6
+RM345,Research & Development,Manufacturing Director,3,Travel_Rarely,No,16,6,0,13
+RM373,Research & Development,Healthcare Representative,2,Travel_Rarely,No,1,1,0,0
+RM439,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,8,7,0,0
+RM462,Sales,Sales Executive,2,Travel_Rarely,No,5,4,0,3
+RM677,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,10,6,0,7
+RM705,Sales,Sales Executive,3,Travel_Rarely,No,10,9,0,8
+RM974,Research & Development,Laboratory Technician,2,Travel_Rarely,No,9,7,0,0
+RM1233,Research & Development,Manufacturing Director,2,Travel_Rarely,No,7,7,0,7
+RM1303,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,3
+RM1381,Sales,Sales Executive,2,Travel_Rarely,No,5,3,0,4
+RM1393,Sales,Sales Executive,2,Travel_Rarely,Yes,10,8,0,9
+RM1425,Research & Development,Research Scientist,2,Travel_Rarely,No,10,7,0,8
+RM798,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,1,0,0
+RM496,Sales,Sales Representative,1,Travel_Rarely,No,4,3,0,2
+RM843,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,1,0,0
+RM1137,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,1,1,0,0
+RM1391,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,1,0,3
+RM230,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,3,0,1
+RM337,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,7,7,0,7
+RM1078,Research & Development,Research Scientist,1,Travel_Rarely,No,9,7,0,7
+RM141,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,0,
+RM235,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,5,4,0,4
+RM383,Research & Development,Research Scientist,1,Travel_Frequently,No,6,4,0,4
+RM686,Sales,Sales Executive,2,Travel_Frequently,No,7,7,0,7
+RM165,Research & Development,Research Scientist,1,Non-Travel,Yes,1,1,0,1
+RM213,Sales,Sales Executive,2,Travel_Frequently,No,7,7,0,7
+RM522,Sales,Sales Executive,2,Travel_Frequently,Yes,6,5,0,4
+RM1318,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,5,4,0,2
+RM098,Sales,Sales Executive,2,Non-Travel,No,5,4,0,4
+RM828,Research & Development,Research Scientist,1,Travel_Frequently,Yes,3,1,0,2
+RM1365,Sales,Sales Executive,2,Travel_Frequently,Yes,7,7,0,7
+RM156,Research & Development,Manufacturing Director,2,Non-Travel,No,10,7,0,9
+RM283,Sales,Sales Executive,2,Travel_Frequently,No,10,7,0,9
+RM350,Sales,Sales Executive,2,Non-Travel,No,4,3,0,2
+RM698,Sales,Sales Representative,1,Travel_Frequently,No,3,1,0,2
+RM1058,Sales,Sales Executive,2,Travel_Frequently,No,5,3,0,0
+RM121,Research & Development,Research Scientist,1,Travel_Frequently,No,10,7,0,9
+RM217,Sales,Sales Executive,2,Travel_Frequently,No,6,3,0,1
+RM624,Research & Development,Research Scientist,1,Travel_Frequently,No,5,4,0,3
+RM1245,Research & Development,Research Scientist,1,Travel_Frequently,No,9,7,0,7
+RM680,Sales,Sales Executive,2,Non-Travel,No,9,8,0,0
+RM727,Research & Development,Manufacturing Director,2,Travel_Frequently,No,4,3,0,3
+RM1396,Sales,Sales Executive,2,Travel_Frequently,Yes,10,7,0,8
+RM145,Sales,Sales Executive,2,Travel_Frequently,No,8,7,0,
+RM261,Research & Development,Laboratory Technician,1,Travel_Frequently,No,5,1,0,3
+RM882,Research & Development,Research Scientist,2,Travel_Frequently,Yes,8,7,0,7
+RM1261,Research & Development,Research Scientist,1,Non-Travel,No,7,7,0,7
+RM1376,Research & Development,Research Scientist,1,Travel_Frequently,Yes,4,1,0,3
+RM122,Sales,Sales Executive,2,Non-Travel,No,7,7,0,7
+RM329,Sales,Sales Executive,2,Travel_Frequently,No,7,7,0,1
+RM873,Sales,Sales Executive,2,Travel_Frequently,No,10,7,0,1
+RM1048,Sales,Sales Executive,2,Travel_Frequently,No,4,3,0,3
+RM1416,Research & Development,Laboratory Technician,1,Non-Travel,No,1,1,0,0
+RM112,Research & Development,Laboratory Technician,2,Travel_Frequently,Yes,9,7,0,6
+RM978,Research & Development,Research Scientist,1,Non-Travel,No,5,4,0,0
+RM1268,Sales,Sales Executive,2,Non-Travel,Yes,15,14,0,7
+RM1291,Research & Development,Laboratory Technician,2,Travel_Frequently,No,7,1,0,7
+RM229,Sales,Sales Executive,3,Travel_Frequently,No,10,7,0,8
+RM103,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,1,0,1,0
+RM1138,Research & Development,Research Scientist,1,Non-Travel,Yes,4,2,1,3
+RM1439,Sales,Sales Representative,1,Travel_Frequently,No,1,0,1,0
+RM021,Research & Development,Manufacturing Director,2,Non-Travel,No,4,2,1,3
+RM1169,Research & Development,Research Scientist,1,Travel_Frequently,Yes,6,3,1,3
+RM268,Research & Development,Healthcare Representative,2,Non-Travel,No,6,3,1,5
+RM912,Sales,Sales Representative,1,Travel_Frequently,Yes,1,0,1,0
+RM279,Research & Development,Manufacturing Director,2,Travel_Frequently,No,6,5,1,4
+RM454,Human Resources,Human Resources,1,Travel_Frequently,Yes,7,7,1,0
+RM615,Research & Development,Research Scientist,1,Travel_Frequently,Yes,8,7,1,7
+RM770,Research & Development,Research Scientist,1,Travel_Frequently,No,5,3,1,3
+RM044,Sales,Sales Executive,3,Travel_Frequently,No,9,8,1,7
+RM332,Sales,Sales Executive,2,Non-Travel,Yes,5,4,1,4
+RM538,Research & Development,Manufacturing Director,3,Travel_Frequently,No,9,7,1,7
+RM577,Sales,Sales Executive,2,Travel_Frequently,No,4,2,1,1
+RM781,Research & Development,Healthcare Representative,3,Non-Travel,No,10,7,1,9
+RM1071,Sales,Sales Executive,2,Travel_Frequently,No,4,2,1,3
+RM1382,Research & Development,Research Scientist,1,Non-Travel,No,5,3,1,4
+RM824,Research & Development,Research Scientist,1,Travel_Frequently,No,7,5,1,1
+RM1126,Research & Development,Healthcare Representative,2,Travel_Frequently,No,6,4,1,3
+RM1333,Research & Development,Research Scientist,1,Travel_Frequently,Yes,1,0,1,0
+RM420,Research & Development,Laboratory Technician,1,Non-Travel,No,5,3,1,4
+RM932,Research & Development,Manufacturing Director,2,Non-Travel,Yes,8,4,1,7
+RM225,Research & Development,Manufacturing Director,2,Non-Travel,No,5,4,1,4
+RM260,Research & Development,Laboratory Technician,1,Travel_Frequently,No,5,4,1,4
+RM1240,Research & Development,Manufacturing Director,2,Travel_Frequently,No,5,4,1,4
+RM1464,Research & Development,Manufacturing Director,2,Non-Travel,No,9,4,1,7
+RM1227,Research & Development,Research Scientist,1,Travel_Frequently,No,5,2,1,3
+RM040,Sales,Sales Executive,2,Travel_Frequently,No,5,3,1,3
+RM1254,Sales,Sales Executive,2,Non-Travel,No,11,7,1,7
+RM1266,Research & Development,Research Scientist,2,Non-Travel,No,9,8,1,7
+RM189,Research & Development,Manufacturing Director,2,Travel_Frequently,No,10,9,1,9
+RM416,Sales,Sales Representative,1,Travel_Frequently,No,2,2,1,0
+RM607,Research & Development,Research Scientist,1,Travel_Frequently,No,5,2,1,3
+RM924,Human Resources,Human Resources,2,Travel_Frequently,No,10,9,1,8
+RM1016,Research & Development,Research Scientist,1,Travel_Frequently,No,4,3,1,3
+RM057,Sales,Sales Executive,3,Travel_Frequently,No,9,8,1,8
+RM962,Research & Development,Research Scientist,2,Travel_Frequently,Yes,9,6,1,1
+RM1216,Research & Development,Research Scientist,1,Travel_Frequently,Yes,5,4,1,4
+RM1289,Research & Development,Manufacturing Director,2,Non-Travel,No,7,7,1,7
+RM208,Research & Development,Laboratory Technician,1,Travel_Frequently,No,8,1,1,
+RM360,Sales,Sales Executive,3,Travel_Frequently,No,13,9,1,
+RM1023,Research & Development,Laboratory Technician,1,Non-Travel,No,6,5,1,3
+RM1212,Sales,Sales Executive,2,Travel_Frequently,No,6,3,1,3
+RM009,Research & Development,Manufacturing Director,3,Travel_Frequently,No,9,7,1,
+RM084,Research & Development,Research Scientist,2,Non-Travel,Yes,13,11,1,9
+RM704,Sales,Sales Executive,2,Non-Travel,Yes,5,3,1,3
+RM1452,Sales,Sales Executive,2,Travel_Rarely,No,10,7,1,9
+RM401,Research & Development,Manager,5,Travel_Frequently,Yes,21,8,1,6
+RM1438,Research & Development,Manager,5,Non-Travel,No,6,0,1,3
+RM534,Sales,Sales Executive,3,Travel_Frequently,Yes,18,13,1,12
+RM447,Sales,Sales Executive,2,Non-Travel,No,14,3,1,10
+RM961,Sales,Sales Executive,2,Travel_Frequently,No,9,3,1,7
+RM316,Research & Development,Laboratory Technician,1,Travel_Frequently,No,8,7,1,7
+RM544,Research & Development,Laboratory Technician,1,Non-Travel,No,5,2,1,4
+RM567,Sales,Sales Executive,2,Travel_Frequently,Yes,5,4,1,3
+RM1371,Research & Development,Research Scientist,2,Non-Travel,No,8,7,1,7
+RM002,Research & Development,Research Scientist,2,Travel_Frequently,No,10,7,1,7
+RM202,Research & Development,Manufacturing Director,2,Non-Travel,Yes,7,7,1,7
+RM1007,Research & Development,Laboratory Technician,2,Travel_Frequently,No,4,3,1,3
+RM529,Sales,Sales Executive,2,Travel_Frequently,Yes,4,3,1,3
+RM891,Research & Development,Manufacturing Director,3,Travel_Frequently,No,5,4,1,4
+RM1077,Research & Development,Manager,4,Travel_Frequently,No,14,9,1,12
+RM1442,Research & Development,Healthcare Representative,2,Non-Travel,No,13,12,1,9
+RM071,Sales,Sales Executive,2,Travel_Frequently,No,4,3,1,
+RM1272,Sales,Sales Representative,1,Travel_Rarely,No,1,0,1,0
+RM415,Sales,Sales Representative,1,Travel_Rarely,Yes,5,3,1,4
+RM398,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,1,3
+RM564,Sales,Sales Executive,2,Travel_Rarely,No,6,5,1,4
+RM886,Sales,Sales Executive,2,Travel_Rarely,No,4,3,1,1
+RM476,Sales,Sales Executive,2,Travel_Rarely,No,5,3,1,4
+RM1298,Human Resources,Human Resources,1,Travel_Rarely,Yes,5,1,1,4
+RM1042,Sales,Sales Executive,2,Travel_Rarely,No,5,4,1,3
+RM206,Sales,Sales Executive,3,Travel_Rarely,No,10,4,1,
+RM344,Sales,Sales Executive,2,Travel_Rarely,Yes,7,7,1,7
+RM1173,Sales,Sales Executive,2,Travel_Rarely,No,5,2,1,4
+RM845,Sales,Sales Executive,2,Travel_Rarely,No,10,3,1,4
+RM1065,Human Resources,Human Resources,1,Travel_Rarely,No,5,3,1,3
+RM1110,Sales,Sales Executive,3,Travel_Rarely,No,4,2,1,3
+RM1252,Sales,Sales Executive,3,Travel_Rarely,No,7,7,1,7
+RM311,Human Resources,Human Resources,2,Travel_Rarely,No,2,2,1,0
+RM322,Sales,Sales Executive,2,Travel_Rarely,No,7,7,1,7
+RM1359,Sales,Sales Executive,2,Travel_Rarely,Yes,5,2,1,4
+RM864,Human Resources,Human Resources,1,Travel_Rarely,No,5,4,1,4
+RM568,Sales,Sales Executive,2,Travel_Rarely,No,6,5,1,4
+RM835,Sales,Sales Executive,2,Travel_Rarely,No,6,5,1,3
+RM1343,Sales,Sales Executive,3,Travel_Rarely,Yes,5,3,1,0
+RM1386,Sales,Sales Executive,3,Travel_Rarely,No,8,7,1,1
+RM1447,Sales,Sales Executive,2,Travel_Rarely,No,8,7,1,7
+RM699,Sales,Sales Executive,2,Travel_Rarely,No,5,2,1,0
+RM836,Human Resources,Human Resources,1,Travel_Rarely,No,5,4,1,4
+RM871,Sales,Sales Executive,2,Travel_Rarely,Yes,7,7,1,7
+RM1451,Human Resources,Human Resources,3,Travel_Rarely,Yes,9,0,1,7
+RM1341,Sales,Sales Executive,2,Travel_Rarely,Yes,10,9,1,7
+RM1356,Sales,Sales Executive,2,Travel_Rarely,No,4,2,1,3
+RM116,Sales,Sales Executive,3,Travel_Rarely,No,5,3,1,3
+RM487,Sales,Sales Executive,2,Travel_Rarely,Yes,3,0,1,0
+RM964,Sales,Sales Executive,2,Travel_Rarely,No,7,7,1,7
+RM987,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,1,4
+RM369,Sales,Sales Executive,2,Travel_Rarely,Yes,6,4,1,0
+RM388,Sales,Sales Executive,2,Travel_Rarely,No,5,4,1,3
+RM418,Sales,Manager,5,Travel_Rarely,No,20,15,1,12
+RM885,Sales,Sales Executive,2,Travel_Rarely,No,5,1,1,3
+RM947,Sales,Sales Executive,3,Travel_Rarely,Yes,5,4,1,0
+RM1357,Sales,Sales Executive,2,Travel_Rarely,No,5,4,1,4
+RM351,Human Resources,Human Resources,1,Travel_Rarely,Yes,3,2,1,0
+RM840,Sales,Sales Executive,2,Travel_Rarely,No,6,4,1,5
+RM236,Sales,Manager,4,Travel_Rarely,Yes,17,13,1,9
+RM850,Sales,Sales Executive,2,Travel_Rarely,No,4,3,1,3
+RM1270,Human Resources,Human Resources,1,Travel_Rarely,No,9,7,1,8
+RM053,Sales,Sales Executive,2,Travel_Rarely,Yes,4,3,1,3
+RM756,Sales,Manager,4,Travel_Rarely,No,9,3,1,1
+RM914,Sales,Manager,5,Travel_Rarely,Yes,24,10,1,11
+RM533,Sales,Sales Executive,2,Travel_Rarely,No,7,7,1,7
+RM1155,Human Resources,Manager,5,Travel_Rarely,No,5,2,1,0
+RM092,Sales,Sales Executive,2,Travel_Rarely,Yes,10,7,1,0
+RM562,Sales,Manager,4,Travel_Rarely,No,34,6,1,16
+RM083,Sales,Sales Executive,3,Travel_Rarely,No,1,0,1,0
+RM1402,Human Resources,Manager,5,Travel_Rarely,Yes,10,9,1,4
+RM099,Sales,Sales Executive,4,Travel_Rarely,No,37,10,1,8
+RM880,Sales,Sales Executive,2,Travel_Rarely,Yes,11,7,1,9
+RM178,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,1,0
+RM514,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,1,1
+RM778,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,1,0
+RM218,Research & Development,Research Scientist,1,Travel_Rarely,No,6,2,1,5
+RM422,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,1,1
+RM940,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,4,1,1
+RM237,Research & Development,Laboratory Technician,1,Travel_Rarely,No,9,7,1,7
+RM437,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,1,3
+RM025,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,1,
+RM1113,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,2,1,4
+RM1084,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,1,0
+RM668,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,7,7,1,0
+RM1112,Research & Development,Manufacturing Director,3,Travel_Rarely,No,33,7,1,9
+RM569,Research & Development,Manager,5,Travel_Rarely,Yes,5,2,1,4
+RM1355,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,2,1,0
+RM275,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,0
+RM735,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,1,1
+RM1409,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,2,1,4
+RM475,Research & Development,Research Scientist,1,Travel_Rarely,Yes,6,5,1,4
+RM256,Research & Development,Manufacturing Director,2,Travel_Rarely,No,4,2,1,
+RM734,Research & Development,Manufacturing Director,2,Travel_Rarely,No,8,7,1,3
+RM782,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,1,3
+RM999,Research & Development,Research Scientist,1,Travel_Rarely,No,4,3,1,1
+RM1350,Research & Development,Research Scientist,1,Travel_Rarely,Yes,1,0,1,0
+RM171,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,2,1,1
+RM513,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,1,1
+RM1018,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,0,1,4
+RM1249,Research & Development,Research Scientist,1,Travel_Rarely,No,6,2,1,4
+RM405,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,0,1,
+RM789,Research & Development,Research Scientist,2,Travel_Rarely,No,8,7,1,7
+RM810,Research & Development,Manufacturing Director,3,Travel_Rarely,No,9,7,1,7
+RM1074,Research & Development,Manufacturing Director,2,Travel_Rarely,No,8,6,1,7
+RM253,Research & Development,Research Scientist,1,Travel_Rarely,No,6,5,1,
+RM573,Research & Development,Healthcare Representative,2,Travel_Rarely,No,8,7,1,1
+RM809,Research & Development,Research Scientist,1,Travel_Rarely,No,7,5,1,7
+RM860,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,4,1,3
+RM904,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,6,0,1,0
+RM906,Research & Development,Research Director,4,Travel_Rarely,No,7,7,1,7
+RM1123,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,10,9,1,5
+RM1325,Research & Development,Healthcare Representative,2,Travel_Rarely,No,7,0,1,6
+RM033,Research & Development,Laboratory Technician,1,Travel_Rarely,No,10,0,1,8
+RM147,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,1,
+RM325,Research & Development,Research Scientist,2,Travel_Rarely,No,10,8,1,9
+RM731,Research & Development,Research Director,3,Travel_Rarely,Yes,8,7,1,7
+RM1142,Research & Development,Research Scientist,1,Travel_Rarely,No,6,4,1,1
+RM1260,Research & Development,Healthcare Representative,2,Travel_Rarely,No,7,0,1,7
+RM1413,Research & Development,Laboratory Technician,1,Travel_Rarely,No,12,8,1,7
+RM059,Research & Development,Laboratory Technician,2,Travel_Rarely,No,7,7,1,7
+RM073,Research & Development,Research Scientist,1,Travel_Rarely,No,1,1,1,
+RM076,Research & Development,Manufacturing Director,2,Travel_Rarely,No,11,7,1,
+RM897,Research & Development,Healthcare Representative,2,Travel_Rarely,No,10,9,1,8
+RM1015,Research & Development,Research Director,4,Travel_Rarely,No,3,2,1,0
+RM170,Research & Development,Research Scientist,1,Travel_Rarely,No,5,4,1,4
+RM627,Research & Development,Research Scientist,2,Travel_Rarely,No,5,3,1,3
+RM1191,Research & Development,Research Scientist,2,Travel_Rarely,No,9,5,1,6
+RM186,Research & Development,Research Scientist,1,Travel_Rarely,No,8,7,1,6
+RM222,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,1
+RM695,Research & Development,Healthcare Representative,2,Travel_Rarely,No,5,0,1,4
+RM085,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,2,1,3
+RM482,Research & Development,Research Scientist,1,Travel_Rarely,Yes,6,5,1,3
+RM575,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,1,3
+RM580,Research & Development,Research Scientist,1,Travel_Rarely,No,6,5,1,3
+RM672,Research & Development,Laboratory Technician,1,Travel_Rarely,No,1,0,1,0
+RM959,Research & Development,Healthcare Representative,3,Travel_Rarely,No,9,7,1,6
+RM612,Research & Development,Manufacturing Director,3,Travel_Rarely,No,8,5,1,6
+RM621,Research & Development,Research Scientist,1,Travel_Rarely,No,6,5,1,1
+RM841,Research & Development,Laboratory Technician,1,Travel_Rarely,No,8,0,1,7
+RM1151,Research & Development,Research Scientist,2,Travel_Rarely,No,16,15,1,10
+RM1459,Research & Development,Research Scientist,1,Travel_Rarely,No,4,3,1,1
+RM874,Research & Development,Laboratory Technician,1,Travel_Rarely,No,7,7,1,7
+RM943,Research & Development,Healthcare Representative,3,Travel_Rarely,No,7,7,1,7
+RM1019,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,4,1,8
+RM1146,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,3,2,1,1
+RM1181,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,1,3
+RM196,Research & Development,Research Scientist,1,Travel_Rarely,Yes,8,7,1,7
+RM833,Research & Development,Healthcare Representative,2,Travel_Rarely,No,6,2,1,3
+RM990,Research & Development,Research Scientist,1,Travel_Rarely,Yes,6,4,1,3
+RM200,Research & Development,Manufacturing Director,2,Travel_Rarely,No,7,7,1,7
+RM530,Research & Development,Healthcare Representative,2,Travel_Rarely,No,9,7,1,8
+RM785,Research & Development,Healthcare Representative,3,Travel_Rarely,No,19,9,1,9
+RM1262,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,1,0,1,0
+RM1431,Research & Development,Research Director,3,Travel_Rarely,No,18,16,1,11
+RM950,Research & Development,Manufacturing Director,2,Travel_Rarely,No,8,7,1,7
+RM1176,Research & Development,Manufacturing Director,2,Travel_Rarely,No,5,4,1,0
+RM1430,Research & Development,Research Scientist,2,Travel_Rarely,No,7,7,1,7
+RM1467,Research & Development,Healthcare Representative,3,Travel_Rarely,No,7,7,1,7
+RM362,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,7,7,1,
+RM149,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,0,1,4
+RM167,Research & Development,Research Scientist,1,Travel_Rarely,No,9,8,1,8
+RM1421,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,1,0
+RM644,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,5,3,1,3
+RM036,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,1,4
+RM610,Research & Development,Research Director,4,Travel_Rarely,No,4,1,1,0
+RM996,Research & Development,Research Scientist,2,Travel_Rarely,Yes,20,7,1,8
+RM032,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,4,2,1,3
+RM1047,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,1,3
+RM1141,Research & Development,Research Director,5,Travel_Rarely,Yes,22,7,1,10
+RM245,Research & Development,Manager,5,Travel_Rarely,No,24,0,1,7
+RM1143,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,10,7,1,4
+RM779,Research & Development,Research Scientist,2,Travel_Rarely,Yes,16,13,1,7
+RM878,Research & Development,Manufacturing Director,2,Travel_Rarely,No,6,3,1,4
+RM330,Research & Development,Research Director,5,Travel_Rarely,No,3,2,1,1
+RM678,Research & Development,Laboratory Technician,3,Travel_Rarely,No,26,9,1,7
+RM1148,Research & Development,Laboratory Technician,1,Travel_Rarely,No,9,6,1,4
+RM280,Research & Development,Research Director,5,Travel_Rarely,No,10,4,1,6
+RM368,Research & Development,Healthcare Representative,3,Travel_Rarely,No,4,3,1,3
+RM715,Research & Development,Research Director,4,Travel_Rarely,No,5,4,1,3
+RM722,Research & Development,Manufacturing Director,4,Travel_Rarely,Yes,12,11,1,5
+RM1178,Research & Development,Research Director,3,Travel_Rarely,No,14,11,1,11
+RM190,Research & Development,Healthcare Representative,4,Travel_Rarely,No,7,7,1,0
+RM409,Research & Development,Manager,4,Travel_Rarely,No,5,2,1,4
+RM588,Research & Development,Laboratory Technician,2,Travel_Rarely,No,5,2,1,4
+RM185,Research & Development,Manufacturing Director,2,Travel_Rarely,No,4,2,1,3
+RM281,Research & Development,Research Director,4,Travel_Rarely,Yes,5,3,1,3
+RM535,Research & Development,Research Director,4,Travel_Rarely,No,5,1,1,3
+RM576,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,5,3,1,4
+RM1306,Research & Development,Research Scientist,2,Travel_Rarely,No,7,1,1,7
+RM1407,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,5,2,1,4
+RM553,Research & Development,Healthcare Representative,4,Travel_Rarely,No,10,7,1,1
+RM1024,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,0
+RM164,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,5,3,1,4
+RM361,Research & Development,Healthcare Representative,2,Travel_Rarely,No,3,2,1,
+RM1010,Research & Development,Research Director,5,Travel_Rarely,Yes,9,8,1,5
+RM857,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,1,2
+RM358,Sales,Sales Representative,1,Travel_Frequently,Yes,3,2,1,2
+RM444,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,1,2
+RM1202,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,5,4,1,2
+RM1408,Research & Development,Healthcare Representative,2,Travel_Rarely,No,4,3,1,2
+RM518,Sales,Sales Executive,2,Travel_Rarely,No,3,2,1,2
+RM994,Sales,Sales Executive,2,Travel_Rarely,No,3,2,1,2
+RM574,Sales,Sales Executive,2,Travel_Rarely,No,4,3,1,2
+RM787,Research & Development,Laboratory Technician,1,Non-Travel,No,3,2,1,2
+RM826,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,10,7,1,2
+RM339,Sales,Sales Executive,2,Travel_Rarely,No,10,9,1,2
+RM1247,Human Resources,Human Resources,1,Travel_Frequently,No,4,2,1,2
+RM710,Research & Development,Research Scientist,1,Non-Travel,Yes,3,2,1,2
+RM240,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,3,2,1,2
+RM470,Sales,Sales Executive,2,Non-Travel,No,4,2,1,2
+RM716,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes,6,5,1,2
+RM791,Research & Development,Healthcare Representative,3,Travel_Rarely,No,3,2,1,2
+RM1253,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,0,1,2
+RM1470,Research & Development,Laboratory Technician,2,Travel_Rarely,No,4,3,1,2
+RM1109,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,0,1,2
+RM1183,Research & Development,Manufacturing Director,2,Non-Travel,No,3,2,1,2
+RM606,Research & Development,Healthcare Representative,2,Travel_Frequently,No,4,3,1,2
+RM643,Sales,Sales Representative,1,Travel_Rarely,No,2,2,1,2
+RM1367,Sales,Sales Executive,2,Non-Travel,No,3,2,1,2
+RM347,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,5,4,1,2
+RM1229,Human Resources,Human Resources,2,Non-Travel,No,3,2,1,2
+RM1295,Research & Development,Healthcare Representative,2,Travel_Rarely,No,3,2,1,2
+RM131,Research & Development,Research Scientist,1,Travel_Frequently,No,3,2,1,2
+RM434,Sales,Sales Executive,3,Travel_Rarely,Yes,3,2,1,2
+RM666,Sales,Sales Representative,1,Travel_Rarely,Yes,3,2,1,2
+RM1195,Sales,Manager,4,Travel_Rarely,No,3,2,1,2
+RM1072,Research & Development,Laboratory Technician,2,Travel_Rarely,No,3,2,1,2
+RM300,Research & Development,Manufacturing Director,2,Travel_Rarely,No,4,1,1,2
+RM1204,Research & Development,Healthcare Representative,3,Travel_Rarely,No,4,3,1,2
+RM1208,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,1,2
+RM309,Research & Development,Healthcare Representative,2,Non-Travel,Yes,5,3,1,2
+RM842,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,3,1,2
+RM1308,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,2
+RM1199,Sales,Sales Executive,2,Non-Travel,Yes,6,5,1,2
+RM741,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,1,2
+RM1103,Sales,Sales Representative,1,Travel_Rarely,Yes,3,2,1,2
+RM396,Research & Development,Laboratory Technician,1,Travel_Frequently,No,3,2,1,2
+RM497,Sales,Sales Representative,1,Travel_Rarely,No,3,2,1,2
+RM1437,Sales,Sales Representative,1,Travel_Rarely,Yes,2,2,1,2
+RM384,Research & Development,Research Scientist,1,Travel_Rarely,No,2,1,1,2
+RM1424,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,2
+RM1083,Research & Development,Laboratory Technician,2,Travel_Rarely,No,4,3,1,2
+RM1239,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,1,2
+RM114,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,1,2
+RM480,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,6,3,1,2
+RM1231,Research & Development,Laboratory Technician,1,Travel_Rarely,No,6,2,1,2
+RM966,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,1,2
+RM1412,Human Resources,Human Resources,1,Travel_Rarely,No,2,0,1,2
+RM763,Research & Development,Research Scientist,1,Travel_Frequently,Yes,3,2,1,2
+RM1310,Sales,Sales Executive,2,Travel_Rarely,No,5,3,1,2
+RM319,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,3,1,2
+RM1171,Research & Development,Research Scientist,1,Travel_Frequently,No,4,2,1,2
+RM1368,Research & Development,Research Scientist,1,Travel_Rarely,No,5,3,1,2
+RM934,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,2
+RM1057,Sales,Sales Representative,1,Travel_Frequently,No,3,2,1,2
+RM372,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,2
+RM455,Research & Development,Manufacturing Director,2,Travel_Rarely,No,3,2,1,2
+RM508,Sales,Sales Executive,2,Travel_Rarely,No,6,0,1,2
+RM894,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,2
+RM1220,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,3,1,2
+RM1344,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,1,2
+RM438,Sales,Sales Representative,1,Travel_Rarely,No,3,2,1,2
+RM733,Research & Development,Laboratory Technician,1,Travel_Frequently,No,3,2,1,2
+RM483,Sales,Sales Executive,2,Travel_Rarely,No,3,1,1,2
+RM1418,Sales,Sales Representative,1,Travel_Rarely,No,2,2,1,2
+RM239,Sales,Sales Representative,1,Travel_Rarely,No,4,3,1,2
+RM992,Sales,Sales Executive,2,Travel_Rarely,Yes,3,2,1,2
+RM1114,Research & Development,Research Scientist,2,Non-Travel,No,6,5,1,2
+RM1389,Research & Development,Healthcare Representative,2,Non-Travel,No,5,1,1,2
+RM1450,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,1,2
+RM500,Sales,Sales Executive,2,Travel_Rarely,No,5,0,1,2
+RM991,Sales,Sales Executive,2,Travel_Frequently,No,5,4,1,2
+RM014,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,1,2
+RM160,Sales,Sales Representative,1,Travel_Frequently,No,4,3,1,2
+RM182,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,1,2
+RM394,Sales,Sales Executive,2,Non-Travel,No,3,2,1,2
+RM584,Sales,Sales Executive,2,Travel_Rarely,No,3,2,1,2
+RM069,Research & Development,Research Scientist,1,Travel_Frequently,No,3,2,1,2
+RM197,Research & Development,Laboratory Technician,2,Travel_Frequently,No,6,2,1,2
+RM295,Research & Development,Research Scientist,1,Travel_Frequently,Yes,4,2,1,2
+RM465,Research & Development,Manufacturing Director,3,Travel_Rarely,No,6,5,1,2
+RM020,Research & Development,Research Scientist,1,Travel_Rarely,Yes,3,2,1,2
+RM288,Research & Development,Healthcare Representative,2,Travel_Rarely,No,2,2,1,2
+RM1108,Human Resources,Human Resources,2,Travel_Frequently,No,6,3,1,2
+RM1121,Sales,Sales Executive,2,Travel_Rarely,No,3,2,1,2
+RM1401,Human Resources,Human Resources,1,Travel_Frequently,Yes,6,2,1,2
+RM241,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,1,2
+RM1046,Research & Development,Research Scientist,1,Travel_Rarely,No,3,1,1,2
+RM1133,Sales,Sales Executive,2,Travel_Rarely,No,5,4,1,2
+RM389,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,2,1,2
+RM1420,Research & Development,Research Scientist,2,Travel_Rarely,Yes,4,3,1,2
+RM1294,Research & Development,Research Scientist,1,Non-Travel,No,3,2,1,2
+RM100,Research & Development,Laboratory Technician,2,Non-Travel,No,3,2,1,2
+RM954,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,1,2
+RM1436,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,3,1,2
+RM1038,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,3,1,1,2
+RM466,Research & Development,Healthcare Representative,3,Travel_Frequently,No,2,2,1,2
+RM1021,Research & Development,Research Scientist,1,Travel_Rarely,No,6,5,1,2
+RM1068,Sales,Sales Executive,2,Travel_Rarely,Yes,5,4,1,2
+RM291,Research & Development,Research Director,5,Travel_Frequently,Yes,3,2,1,2
+RM1045,Research & Development,Healthcare Representative,2,Travel_Rarely,No,3,2,1,2
+RM1177,Research & Development,Research Director,4,Travel_Rarely,No,4,2,1,2
+RM946,Research & Development,Research Director,4,Travel_Rarely,Yes,3,2,1,2
+RM571,Research & Development,Research Scientist,1,Non-Travel,No,4,3,1,2
+RM393,Research & Development,Research Director,5,Travel_Rarely,No,4,2,1,2
+RM380,Research & Development,Manager,4,Travel_Rarely,Yes,5,4,1,2
+RM788,Research & Development,Manufacturing Director,3,Travel_Frequently,No,3,2,1,2
+RM1066,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,3,2,1,2
+RM641,Research & Development,Laboratory Technician,1,Non-Travel,No,5,2,3,4
+RM749,Sales,Sales Executive,2,Non-Travel,No,2,2,2,2
+RM162,Research & Development,Research Scientist,1,Non-Travel,No,2,2,2,2
+RM945,Research & Development,Laboratory Technician,2,Non-Travel,No,9,8,7,5
+RM355,Sales,Sales Executive,2,Non-Travel,Yes,2,2,2,2
+RM424,Sales,Sales Executive,3,Non-Travel,No,9,8,7,8
+RM427,Research & Development,Laboratory Technician,1,Non-Travel,No,11,7,6,7
+RM1406,Research & Development,Research Director,3,Non-Travel,No,11,7,4,8
+RM242,Sales,Sales Executive,2,Non-Travel,No,3,2,2,2
+RM757,Research & Development,Laboratory Technician,1,Non-Travel,No,8,7,7,7
+RM755,Sales,Sales Representative,1,Non-Travel,No,2,2,2,2
+RM023,Research & Development,Research Director,3,Travel_Rarely,No,12,6,2,
+RM047,Sales,Sales Executive,2,Non-Travel,No,9,5,8,7
+RM054,Research & Development,Healthcare Representative,3,Non-Travel,Yes,4,0,2,3
+RM889,Sales,Sales Executive,3,Non-Travel,Yes,13,2,4,12
+RM1423,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,2,2,2,2
+RM399,Research & Development,Research Scientist,2,Non-Travel,Yes,13,11,10,7
+RM262,Sales,Sales Executive,2,Non-Travel,No,8,7,7,5
+RM1290,Human Resources,Human Resources,1,Non-Travel,No,11,10,3,8
+RM1041,Research & Development,Research Director,3,Non-Travel,No,9,8,4,8
+RM1099,Research & Development,Healthcare Representative,2,Non-Travel,Yes,2,2,2,2
+RM955,Research & Development,Manager,4,Non-Travel,Yes,20,8,2,10
+RM1321,Research & Development,Research Scientist,1,Non-Travel,No,6,3,3,3
+RM194,Research & Development,Research Scientist,1,Non-Travel,No,5,4,2,2
+RM195,Research & Development,Manager,4,Non-Travel,No,20,8,11,8
+RM219,Sales,Sales Executive,3,Non-Travel,No,19,7,12,8
+RM1222,Research & Development,Healthcare Representative,3,Non-Travel,No,23,15,14,4
+RM1315,Sales,Sales Executive,2,Non-Travel,No,8,7,5,7
+RM1286,Sales,Sales Executive,2,Non-Travel,No,2,2,2,2
+RM1422,Research & Development,Research Director,3,Non-Travel,No,13,8,5,12
+RM805,Research & Development,Manager,4,Non-Travel,No,5,4,2,1
+RM113,Human Resources,Manager,4,Non-Travel,Yes,5,3,4,4
+RM775,Research & Development,Manager,4,Non-Travel,No,9,7,6,2
+RM1302,Sales,Manager,4,Non-Travel,No,16,9,14,14
+RM106,Human Resources,Manager,5,Non-Travel,No,3,2,2,2
+RM471,Sales,Sales Representative,1,Travel_Frequently,No,2,2,2,1
+RM1246,Human Resources,Human Resources,1,Travel_Frequently,No,2,2,2,1
+RM572,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,2,0
+RM1362,Research & Development,Laboratory Technician,1,Travel_Frequently,No,7,7,7,7
+RM201,Research & Development,Manufacturing Director,2,Travel_Frequently,No,2,2,2,0
+RM1335,Research & Development,Research Scientist,1,Travel_Frequently,No,7,6,7,3
+RM1008,Research & Development,Healthcare Representative,3,Travel_Frequently,Yes,8,7,7,7
+RM246,Research & Development,Research Director,3,Travel_Frequently,No,2,2,2,2
+RM819,Sales,Sales Representative,1,Travel_Frequently,No,2,2,2,2
+RM1037,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,2,2,2,2
+RM1307,Sales,Sales Executive,3,Travel_Frequently,No,3,2,2,2
+RM006,Research & Development,Laboratory Technician,1,Travel_Frequently,No,7,7,3,6
+RM314,Research & Development,Manager,3,Travel_Frequently,No,10,6,8,8
+RM510,Research & Development,Healthcare Representative,2,Travel_Frequently,No,13,11,4,7
+RM848,Research & Development,Healthcare Representative,2,Travel_Frequently,No,13,9,4,9
+RM921,Research & Development,Laboratory Technician,2,Travel_Frequently,No,11,8,5,10
+RM1056,Research & Development,Research Director,4,Travel_Frequently,No,14,8,6,9
+RM982,Sales,Sales Executive,2,Travel_Frequently,Yes,4,2,3,2
+RM1003,Research & Development,Manufacturing Director,3,Travel_Frequently,No,2,2,2,2
+RM1187,Sales,Sales Executive,2,Travel_Frequently,Yes,11,9,6,7
+RM118,Sales,Sales Executive,3,Travel_Frequently,No,9,7,2,8
+RM173,Research & Development,Laboratory Technician,1,Travel_Frequently,No,8,7,7,2
+RM969,Sales,Sales Executive,2,Travel_Frequently,No,15,7,6,13
+RM227,Sales,Sales Representative,1,Travel_Frequently,No,9,8,5,8
+RM579,Research & Development,Manufacturing Director,2,Travel_Frequently,Yes,15,7,4,12
+RM766,Research & Development,Research Scientist,1,Travel_Frequently,No,2,2,2,2
+RM1188,Research & Development,Research Scientist,2,Travel_Frequently,No,13,11,2,9
+RM1419,Research & Development,Manufacturing Director,2,Travel_Frequently,No,8,3,7,7
+RM252,Research & Development,Healthcare Representative,3,Travel_Frequently,No,19,6,11,
+RM814,Research & Development,Healthcare Representative,4,Travel_Frequently,No,18,7,11,5
+RM1160,Research & Development,Manufacturing Director,2,Travel_Frequently,No,9,2,3,8
+RM1293,Sales,Sales Executive,2,Travel_Frequently,No,2,1,2,2
+RM838,Research & Development,Research Director,3,Travel_Frequently,No,18,7,2,13
+RM148,Research & Development,Manager,4,Travel_Frequently,No,7,6,7,7
+RM989,Research & Development,Research Scientist,2,Travel_Frequently,Yes,6,2,3,3
+RM296,Sales,Sales Executive,4,Travel_Frequently,No,20,4,4,8
+RM442,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,2,0
+RM548,Research & Development,Research Scientist,1,Travel_Frequently,Yes,2,2,2,2
+RM633,Research & Development,Research Scientist,1,Travel_Frequently,Yes,2,1,2,2
+RM839,Sales,Sales Executive,4,Travel_Frequently,Yes,21,9,13,14
+RM1094,Research & Development,Healthcare Representative,3,Travel_Frequently,Yes,20,8,13,9
+RM492,Research & Development,Laboratory Technician,2,Travel_Frequently,Yes,8,7,4,7
+RM549,Sales,Sales Executive,2,Travel_Frequently,No,2,2,2,2
+RM651,Research & Development,Healthcare Representative,2,Travel_Frequently,No,5,2,2,2
+RM1063,Research & Development,Manufacturing Director,3,Travel_Frequently,Yes,2,2,2,2
+RM094,Research & Development,Healthcare Representative,3,Travel_Frequently,Yes,10,9,9,5
+RM545,Sales,Sales Executive,4,Travel_Frequently,Yes,22,2,11,13
+RM1224,Sales,Sales Executive,4,Travel_Frequently,No,23,5,14,10
+RM1167,Research & Development,Manager,4,Travel_Frequently,No,2,2,2,2
+RM1205,Sales,Sales Representative,1,Travel_Frequently,Yes,9,7,7,7
+RM1352,Research & Development,Manager,4,Travel_Frequently,No,22,17,4,7
+RM1378,Research & Development,Research Director,5,Travel_Frequently,No,5,4,4,3
+RM132,Sales,Sales Executive,3,Travel_Frequently,No,2,2,2,1
+RM868,Research & Development,Manager,4,Travel_Frequently,No,2,2,2,2
+RM1139,Research & Development,Healthcare Representative,4,Travel_Frequently,Yes,30,8,12,13
+RM111,Research & Development,Healthcare Representative,3,Travel_Frequently,No,13,12,12,8
+RM919,Sales,Manager,5,Travel_Frequently,Yes,29,10,11,10
+RM931,Research & Development,Laboratory Technician,1,Travel_Frequently,No,7,0,7,7
+RM988,Sales,Sales Executive,3,Travel_Frequently,No,4,2,3,2
+RM761,Sales,Sales Executive,3,Travel_Frequently,No,15,7,6,12
+RM746,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes,8,7,6,7
+RM402,Sales,Sales Executive,4,Travel_Frequently,No,7,7,7,7
+RM1311,Research & Development,Research Director,4,Travel_Frequently,Yes,2,2,2,2
+RM428,Sales,Sales Executive,3,Travel_Frequently,No,18,13,13,11
+RM546,Sales,Sales Executive,2,Travel_Rarely,No,8,7,7,7
+RM485,Sales,Sales Executive,2,Travel_Rarely,No,7,7,5,7
+RM1059,Sales,Sales Executive,2,Travel_Rarely,Yes,15,9,10,10
+RM1088,Sales,Sales Representative,1,Travel_Rarely,Yes,11,10,5,7
+RM792,Sales,Sales Executive,3,Travel_Rarely,Yes,8,7,4,7
+RM1101,Sales,Sales Representative,1,Travel_Rarely,No,5,3,4,2
+RM862,Sales,Manager,4,Travel_Rarely,No,26,15,15,9
+RM652,Sales,Sales Executive,2,Travel_Rarely,Yes,7,6,7,7
+RM153,Sales,Sales Representative,2,Travel_Rarely,Yes,7,7,4,5
+RM503,Sales,Sales Executive,2,Travel_Rarely,No,14,7,8,10
+RM446,Sales,Manager,4,Travel_Rarely,No,10,9,7,7
+RM526,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,0
+RM139,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,
+RM1022,Sales,Sales Representative,1,Travel_Rarely,No,3,2,2,2
+RM1370,Sales,Sales Executive,2,Travel_Rarely,Yes,2,0,2,2
+RM1314,Human Resources,Human Resources,1,Travel_Rarely,Yes,2,2,2,0
+RM140,Human Resources,Human Resources,2,Travel_Rarely,Yes,11,9,4,
+RM168,Sales,Sales Executive,3,Travel_Rarely,No,10,9,7,4
+RM403,Sales,Sales Executive,2,Travel_Rarely,No,5,4,4,4
+RM703,Sales,Sales Executive,3,Travel_Rarely,No,8,4,7,7
+RM1050,Sales,Sales Executive,2,Travel_Rarely,No,2,1,2,2
+RM125,Sales,Sales Executive,2,Travel_Rarely,Yes,7,7,7,7
+RM133,Sales,Sales Executive,2,Travel_Rarely,Yes,2,2,2,2
+RM304,Sales,Sales Executive,2,Travel_Rarely,No,8,7,7,7
+RM676,Sales,Sales Representative,1,Travel_Rarely,No,7,7,5,2
+RM1327,Sales,Sales Executive,2,Travel_Rarely,Yes,2,2,2,2
+RM1429,Sales,Sales Representative,1,Travel_Rarely,No,2,2,2,2
+RM1106,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,2
+RM1049,Sales,Sales Executive,2,Travel_Rarely,No,13,9,3,12
+RM1271,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,2
+RM077,Sales,Sales Executive,2,Travel_Rarely,No,15,13,2,
+RM298,Sales,Sales Executive,3,Travel_Rarely,No,11,9,6,9
+RM448,Sales,Sales Executive,2,Travel_Rarely,No,11,9,6,9
+RM1163,Sales,Sales Executive,3,Travel_Rarely,No,13,12,6,0
+RM1168,Sales,Sales Executive,2,Travel_Rarely,Yes,2,2,2,2
+RM1221,Sales,Sales Representative,2,Travel_Rarely,No,13,7,6,7
+RM1237,Sales,Sales Executive,2,Travel_Rarely,Yes,2,2,2,2
+RM1440,Sales,Sales Executive,3,Travel_Rarely,No,9,7,3,4
+RM696,Sales,Sales Executive,3,Travel_Rarely,No,14,1,11,7
+RM1281,Human Resources,Human Resources,2,Travel_Rarely,No,10,0,4,7
+RM224,Sales,Sales Executive,3,Travel_Rarely,No,16,10,5,13
+RM808,Sales,Sales Executive,3,Travel_Rarely,Yes,8,7,2,7
+RM1120,Sales,Sales Executive,2,Travel_Rarely,No,9,8,7,7
+RM1417,Sales,Sales Executive,2,Travel_Rarely,No,15,13,5,8
+RM138,Sales,Sales Executive,2,Travel_Rarely,No,15,11,5,9
+RM552,Human Resources,Human Resources,2,Travel_Rarely,No,8,3,3,6
+RM1125,Sales,Sales Executive,3,Travel_Rarely,No,7,6,7,6
+RM1404,Sales,Sales Executive,4,Travel_Rarely,No,20,8,11,10
+RM1463,Sales,Sales Executive,4,Travel_Rarely,No,20,9,9,6
+RM159,Sales,Sales Executive,3,Travel_Rarely,No,12,11,2,11
+RM1095,Sales,Sales Executive,2,Travel_Rarely,No,8,4,7,1
+RM1411,Sales,Sales Executive,2,Travel_Rarely,No,11,8,5,10
+RM467,Sales,Manager,4,Travel_Rarely,No,18,16,11,8
+RM536,Human Resources,Manager,5,Travel_Rarely,No,21,6,12,6
+RM1296,Sales,Sales Executive,3,Travel_Rarely,Yes,22,14,13,5
+RM028,Sales,Sales Executive,2,Travel_Rarely,No,9,7,4,
+RM927,Sales,Sales Executive,3,Travel_Rarely,No,21,7,15,17
+RM751,Sales,Sales Executive,4,Travel_Rarely,Yes,12,11,11,11
+RM790,Human Resources,Human Resources,3,Travel_Rarely,No,20,6,3,6
+RM908,Sales,Manager,5,Travel_Rarely,No,22,9,3,10
+RM1201,Human Resources,Human Resources,1,Travel_Rarely,Yes,2,2,2,2
+RM453,Sales,Sales Executive,2,Travel_Rarely,No,8,7,3,7
+RM565,Sales,Sales Representative,2,Travel_Rarely,No,8,7,3,1
+RM030,Sales,Manager,5,Travel_Rarely,No,2,2,2,
+RM264,Sales,Manager,4,Travel_Rarely,Yes,7,7,7,7
+RM811,Sales,Manager,4,Travel_Rarely,No,12,9,4,9
+RM944,Human Resources,Human Resources,1,Travel_Rarely,No,7,6,5,7
+RM1032,Sales,Sales Executive,3,Travel_Rarely,No,7,7,4,3
+RM1081,Sales,Manager,4,Travel_Rarely,No,13,12,5,1
+RM1328,Sales,Sales Executive,4,Travel_Rarely,No,19,17,2,8
+RM445,Sales,Sales Executive,2,Travel_Rarely,No,9,7,6,7
+RM521,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,2
+RM1039,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,2
+RM1104,Sales,Sales Executive,2,Travel_Rarely,No,8,7,7,7
+RM822,Sales,Sales Executive,4,Travel_Rarely,No,9,8,2,3
+RM540,Sales,Sales Representative,1,Travel_Rarely,No,2,2,2,2
+RM1462,Sales,Sales Executive,3,Travel_Rarely,Yes,3,2,2,0
+RM617,Sales,Manager,4,Travel_Rarely,No,20,6,4,17
+RM948,Sales,Sales Executive,3,Travel_Rarely,Yes,8,7,7,7
+RM019,Sales,Manager,4,Travel_Rarely,No,25,8,3,7
+RM647,Sales,Sales Executive,4,Travel_Rarely,No,2,0,2,2
+RM702,Sales,Manager,4,Travel_Rarely,No,17,13,15,2
+RM1397,Sales,Sales Executive,3,Travel_Rarely,Yes,2,2,2,2
+RM511,Human Resources,Human Resources,3,Travel_Rarely,No,9,7,7,1
+RM772,Sales,Sales Executive,3,Travel_Rarely,No,9,4,7,0
+RM609,Sales,Sales Executive,2,Travel_Rarely,No,9,7,7,3
+RM976,Sales,Sales Executive,4,Travel_Rarely,Yes,19,7,3,8
+RM957,Human Resources,Manager,5,Travel_Rarely,No,7,3,7,7
+RM064,Sales,Sales Executive,3,Travel_Rarely,No,21,16,7,9
+RM233,Human Resources,Human Resources,1,Travel_Rarely,No,2,2,2,2
+RM537,Sales,Sales Executive,2,Travel_Rarely,No,2,2,2,2
+RM035,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,0,2,0
+RM324,Research & Development,Research Scientist,1,Travel_Rarely,Yes,3,2,2,2
+RM541,Research & Development,Research Scientist,1,Travel_Rarely,Yes,7,7,3,7
+RM599,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,1
+RM933,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,7,7,7,7
+RM1443,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,2,2,2
+RM436,Research & Development,Manager,3,Travel_Rarely,Yes,7,6,7,7
+RM799,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,2,2,2
+RM670,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,2,2,2,2
+RM1299,Research & Development,Healthcare Representative,2,Travel_Rarely,No,9,7,3,7
+RM780,Research & Development,Research Scientist,1,Travel_Rarely,Yes,10,0,2,7
+RM318,Research & Development,Research Scientist,2,Travel_Rarely,No,8,2,7,7
+RM123,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,4,4,3
+RM1445,Research & Development,Laboratory Technician,1,Travel_Rarely,No,10,9,9,8
+RM596,Research & Development,Research Director,5,Travel_Rarely,Yes,31,15,13,8
+RM967,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,10,9,5,9
+RM129,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,1,2,1
+RM499,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM631,Research & Development,Manufacturing Director,2,Travel_Rarely,No,2,2,2,2
+RM1128,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM1387,Research & Development,Laboratory Technician,1,Travel_Rarely,No,7,7,7,6
+RM005,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,2,2
+RM718,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,2,2
+RM740,Research & Development,Manufacturing Director,2,Travel_Rarely,No,3,2,2,2
+RM669,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM338,Research & Development,Laboratory Technician,1,Travel_Rarely,No,3,2,2,2
+RM146,Research & Development,Research Scientist,1,Travel_Rarely,No,3,2,2,
+RM887,Research & Development,Research Scientist,1,Travel_Rarely,Yes,11,9,5,7
+RM942,Research & Development,Laboratory Technician,2,Travel_Rarely,No,9,2,6,7
+RM267,Research & Development,Healthcare Representative,2,Travel_Rarely,No,9,0,7,8
+RM313,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,2,2,2
+RM370,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,2,2,2
+RM691,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,9,7,8,5
+RM1361,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,2,2
+RM532,Research & Development,Research Director,3,Travel_Rarely,No,7,7,7,7
+RM1102,Research & Development,Research Scientist,2,Travel_Rarely,No,7,1,2,5
+RM591,Research & Development,Research Director,3,Travel_Rarely,No,13,9,3,7
+RM884,Research & Development,Research Scientist,1,Travel_Rarely,No,14,10,4,10
+RM1283,Research & Development,Research Scientist,1,Travel_Rarely,No,10,8,7,6
+RM1426,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,9,7,8,1
+RM117,Research & Development,Manager,3,Travel_Rarely,No,11,10,5,8
+RM248,Research & Development,Manufacturing Director,2,Travel_Rarely,No,11,9,5,9
+RM433,Research & Development,Research Scientist,1,Travel_Rarely,No,7,3,5,7
+RM550,Research & Development,Healthcare Representative,2,Travel_Rarely,No,5,1,4,3
+RM980,Research & Development,Laboratory Technician,2,Travel_Rarely,No,8,7,7,7
+RM1118,Research & Development,Research Scientist,2,Travel_Rarely,No,2,2,2,1
+RM058,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,2,2,2,2
+RM277,Research & Development,Manager,3,Travel_Rarely,No,7,7,6,2
+RM431,Research & Development,Laboratory Technician,1,Travel_Rarely,No,5,4,4,3
+RM597,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM648,Research & Development,Manufacturing Director,3,Travel_Rarely,No,13,10,4,8
+RM847,Research & Development,Manufacturing Director,3,Travel_Rarely,No,7,7,6,4
+RM925,Research & Development,Research Scientist,1,Travel_Rarely,Yes,3,2,2,2
+RM010,Research & Development,Healthcare Representative,2,Travel_Rarely,No,7,7,7,7
+RM221,Research & Development,Laboratory Technician,2,Travel_Rarely,No,13,11,3,7
+RM270,Research & Development,Laboratory Technician,1,Travel_Rarely,No,15,13,10,11
+RM292,Research & Development,Research Scientist,2,Travel_Rarely,No,8,0,7,7
+RM378,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM665,Research & Development,Healthcare Representative,2,Travel_Rarely,Yes,16,8,4,11
+RM688,Research & Development,Laboratory Technician,1,Travel_Rarely,No,11,8,3,9
+RM774,Research & Development,Manufacturing Director,3,Travel_Rarely,No,14,8,7,8
+RM883,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,7,7,7,7
+RM928,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,16,14,5,12
+RM1279,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,12,8,5,7
+RM354,Research & Development,Research Scientist,2,Travel_Rarely,Yes,7,7,6,7
+RM473,Research & Development,Manufacturing Director,2,Travel_Rarely,No,6,5,4,3
+RM578,Research & Development,Research Scientist,1,Travel_Rarely,Yes,5,3,4,3
+RM143,Research & Development,Research Scientist,2,Travel_Rarely,Yes,3,2,2,
+RM342,Research & Development,Research Director,3,Travel_Rarely,Yes,11,10,2,9
+RM305,Research & Development,Healthcare Representative,3,Travel_Rarely,No,18,10,3,7
+RM938,Research & Development,Manager,4,Travel_Rarely,Yes,19,9,15,2
+RM1080,Research & Development,Manufacturing Director,3,Travel_Rarely,No,2,0,2,2
+RM1149,Research & Development,Manufacturing Director,2,Travel_Rarely,No,7,7,7,7
+RM1285,Research & Development,Research Director,3,Travel_Rarely,No,4,3,2,2
+RM1336,Research & Development,Research Scientist,2,Travel_Rarely,No,2,2,2,2
+RM204,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,7,2,3,7
+RM258,Research & Development,Research Director,5,Travel_Rarely,No,21,7,3,
+RM449,Research & Development,Manufacturing Director,4,Travel_Rarely,No,20,6,5,13
+RM554,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,2,2,3
+RM786,Research & Development,Healthcare Representative,3,Travel_Rarely,No,11,10,11,1
+RM979,Research & Development,Healthcare Representative,2,Travel_Rarely,No,12,11,11,8
+RM1165,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,4,2,3,3
+RM1305,Research & Development,Healthcare Representative,2,Travel_Rarely,No,7,4,7,7
+RM1349,Research & Development,Manager,4,Travel_Rarely,No,19,7,11,16
+RM1456,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM687,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,18,13,2,17
+RM738,Research & Development,Manufacturing Director,2,Travel_Rarely,No,2,2,2,1
+RM257,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,9,6,7,
+RM800,Research & Development,Manager,4,Travel_Rarely,No,22,6,13,7
+RM1358,Research & Development,Research Director,3,Travel_Rarely,No,13,7,5,7
+RM1444,Research & Development,Manager,5,Travel_Rarely,No,22,6,4,14
+RM1331,Research & Development,Manager,5,Travel_Rarely,No,16,12,6,14
+RM029,Research & Development,Healthcare Representative,3,Travel_Rarely,No,22,6,5,
+RM618,Research & Development,Healthcare Representative,2,Travel_Rarely,No,5,2,2,3
+RM1079,Research & Development,Research Director,4,Travel_Rarely,No,20,6,14,17
+RM1353,Research & Development,Healthcare Representative,2,Travel_Rarely,No,2,0,2,2
+RM269,Research & Development,Healthcare Representative,4,Travel_Rarely,Yes,20,7,4,10
+RM335,Research & Development,Research Scientist,2,Travel_Rarely,No,10,9,9,8
+RM1347,Research & Development,Manufacturing Director,2,Travel_Rarely,No,9,8,3,8
+RM771,Research & Development,Research Director,5,Travel_Rarely,No,2,2,2,2
+RM1278,Research & Development,Research Director,5,Travel_Rarely,Yes,2,1,2,2
+RM1323,Research & Development,Manufacturing Director,3,Travel_Rarely,No,9,8,4,7
+RM1025,Research & Development,Research Director,4,Travel_Rarely,No,20,17,5,6
+RM1304,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,22,11,14,10
+RM1322,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,2,0
+RM1415,Research & Development,Healthcare Representative,3,Travel_Rarely,No,17,14,12,11
+RM736,Research & Development,Healthcare Representative,2,Travel_Rarely,No,2,2,2,2
+RM737,Research & Development,Healthcare Representative,3,Travel_Rarely,No,15,11,4,8
+RM1115,Research & Development,Research Scientist,1,Travel_Rarely,No,8,2,7,6
+RM1332,Research & Development,Research Director,5,Travel_Rarely,No,22,10,12,9
+RM1182,Research & Development,Healthcare Representative,4,Travel_Rarely,Yes,15,11,2,12
+RM1193,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,2,2,2,2
+RM063,Research & Development,Research Director,5,Travel_Rarely,Yes,27,3,13,8
+RM166,Research & Development,Manager,5,Travel_Rarely,No,5,4,4,4
+RM426,Research & Development,Manager,4,Travel_Rarely,No,27,10,15,7
+RM767,Research & Development,Research Director,5,Travel_Rarely,Yes,8,1,7,7
+RM124,Research & Development,Research Director,5,Travel_Rarely,No,20,18,15,15
+RM214,Research & Development,Research Director,3,Travel_Rarely,No,10,9,4,7
+RM1276,Research & Development,Manager,3,Travel_Rarely,No,2,2,2,2
+RM191,Research & Development,Manager,5,Travel_Rarely,No,33,18,11,9
+RM231,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,2,2
+RM469,Research & Development,Research Scientist,2,Travel_Rarely,Yes,10,9,6,9
+RM700,Research & Development,Manager,4,Travel_Rarely,No,9,8,7,8
+RM807,Research & Development,Healthcare Representative,3,Travel_Rarely,No,8,6,4,0
+RM026,Research & Development,Manager,5,Travel_Rarely,No,14,13,4,
+RM557,Research & Development,Laboratory Technician,2,Travel_Rarely,No,2,2,2,2
+RM650,Research & Development,Research Director,4,Travel_Rarely,No,12,9,3,8
+RM859,Research & Development,Manager,5,Travel_Rarely,No,7,7,4,7
+RM1044,Research & Development,Research Director,4,Travel_Rarely,No,9,8,8,8
+RM1009,Research & Development,Research Director,4,Travel_Rarely,No,20,7,12,7
+RM1185,Research & Development,Manager,4,Travel_Rarely,No,10,8,4,7
+RM1398,Research & Development,Research Scientist,2,Travel_Rarely,No,4,3,2,3
+RM188,Research & Development,Research Director,5,Travel_Rarely,No,24,15,2,15
+RM271,Research & Development,Manager,5,Travel_Rarely,Yes,36,10,4,13
+RM956,Research & Development,Manager,5,Travel_Rarely,No,19,9,9,11
+RM176,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,2,2,2
+RM852,Research & Development,Manager,5,Travel_Rarely,No,5,2,4,2
+RM977,Research & Development,Manufacturing Director,4,Travel_Rarely,Yes,19,16,15,9
+RM1054,Research & Development,Research Scientist,2,Travel_Rarely,No,12,9,2,8
+RM744,Research & Development,Manufacturing Director,4,Travel_Rarely,Yes,5,3,4,3
+RM920,Research & Development,Manufacturing Director,3,Travel_Rarely,No,9,7,5,4
+RM412,Research & Development,Manager,5,Travel_Rarely,No,29,8,11,10
+RM877,Sales,Sales Representative,1,Travel_Rarely,No,2,1,2,2
+RM1179,Sales,Sales Representative,1,Travel_Rarely,No,2,2,2,2
+RM363,Sales,Sales Representative,1,Non-Travel,No,3,2,2,
+RM816,Research & Development,Research Scientist,1,Travel_Rarely,Yes,2,2,2,2
+RM1153,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM161,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM207,Research & Development,Research Scientist,1,Travel_Rarely,Yes,4,2,2,
+RM725,Research & Development,Manufacturing Director,2,Travel_Rarely,No,4,2,3,2
+RM109,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,1
+RM935,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,1
+RM065,Research & Development,Healthcare Representative,3,Travel_Rarely,No,17,14,12,8
+RM385,Sales,Sales Executive,3,Travel_Rarely,No,10,9,9,0
+RM443,Sales,Sales Executive,3,Non-Travel,No,10,3,9,7
+RM622,Sales,Sales Executive,2,Travel_Rarely,Yes,18,14,4,11
+RM1448,Sales,Sales Executive,2,Non-Travel,No,15,12,11,11
+RM286,Research & Development,Research Scientist,1,Travel_Rarely,No,17,12,5,7
+RM387,Research & Development,Laboratory Technician,1,Travel_Rarely,No,18,7,12,17
+RM468,Sales,Sales Executive,3,Non-Travel,No,9,5,7,7
+RM507,Research & Development,Manufacturing Director,3,Travel_Rarely,No,10,7,7,8
+RM856,Research & Development,Manufacturing Director,2,Travel_Rarely,No,14,8,3,11
+RM1090,Research & Development,Research Scientist,2,Travel_Rarely,No,10,8,3,7
+RM1164,Research & Development,Research Scientist,1,Travel_Rarely,No,8,4,7,7
+RM1433,Research & Development,Research Director,3,Travel_Rarely,Yes,16,11,6,8
+RM062,Research & Development,Laboratory Technician,2,Travel_Frequently,No,10,3,9,9
+RM180,Research & Development,Laboratory Technician,1,Travel_Rarely,No,2,2,2,1
+RM278,Sales,Sales Executive,2,Travel_Rarely,Yes,8,0,7,7
+RM682,Research & Development,Research Director,3,Travel_Rarely,No,15,12,5,11
+RM827,Human Resources,Human Resources,1,Travel_Rarely,No,7,6,5,0
+RM1194,Research & Development,Laboratory Technician,1,Travel_Frequently,No,4,3,3,3
+RM315,Research & Development,Manager,4,Travel_Rarely,Yes,21,9,11,10
+RM327,Research & Development,Manager,5,Travel_Frequently,No,21,9,13,3
+RM527,Research & Development,Healthcare Representative,2,Travel_Rarely,No,20,7,11,10
+RM739,Research & Development,Manufacturing Director,4,Travel_Rarely,No,21,6,11,8
+RM754,Research & Development,Manufacturing Director,3,Travel_Frequently,Yes,21,6,2,8
+RM1241,Research & Development,Laboratory Technician,2,Non-Travel,Yes,9,8,5,8
+RM1373,Research & Development,Manufacturing Director,2,Travel_Rarely,No,10,0,7,9
+RM091,Research & Development,Healthcare Representative,4,Travel_Frequently,No,22,3,11,11
+RM151,Research & Development,Research Scientist,2,Travel_Frequently,No,20,7,2,13
+RM187,Research & Development,Manager,5,Travel_Rarely,No,20,8,9,9
+RM244,Research & Development,Research Scientist,2,Travel_Rarely,No,9,8,4,7
+RM583,Research & Development,Healthcare Representative,2,Travel_Frequently,No,8,7,3,7
+RM769,Sales,Sales Executive,2,Travel_Rarely,No,7,7,7,5
+RM815,Research & Development,Research Director,5,Travel_Rarely,No,20,7,4,9
+RM960,Research & Development,Research Scientist,2,Travel_Rarely,No,9,8,8,8
+RM1097,Human Resources,Manager,4,Travel_Rarely,Yes,21,7,7,7
+RM1157,Research & Development,Manufacturing Director,3,Travel_Rarely,No,18,15,14,12
+RM1243,Sales,Manager,5,Travel_Rarely,No,21,8,12,8
+RM1410,Research & Development,Laboratory Technician,2,Travel_Frequently,No,10,9,9,4
+RM539,Human Resources,Manager,5,Travel_Rarely,No,22,7,2,10
+RM747,Research & Development,Research Director,5,Non-Travel,No,21,16,5,10
+RM952,Sales,Sales Executive,2,Non-Travel,No,19,2,11,9
+RM1219,Sales,Sales Executive,3,Travel_Rarely,No,10,8,8,7
+RM232,Research & Development,Manager,5,Travel_Rarely,No,22,17,11,15
+RM282,Sales,Sales Executive,2,Travel_Rarely,No,20,16,11,6
+RM452,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,10,9,5,8
+RM489,Research & Development,Healthcare Representative,2,Travel_Rarely,No,10,2,2,2
+RM585,Research & Development,Manager,5,Travel_Frequently,No,24,7,14,9
+RM605,Research & Development,Manufacturing Director,2,Travel_Rarely,No,9,8,7,8
+RM1051,Research & Development,Laboratory Technician,1,Travel_Frequently,No,12,9,5,8
+RM1405,Research & Development,Research Scientist,2,Non-Travel,No,20,9,3,7
+RM120,Sales,Manager,4,Travel_Frequently,Yes,25,12,4,12
+RM391,Research & Development,Research Director,4,Travel_Rarely,No,25,10,3,9
+RM1186,Research & Development,Research Director,4,Travel_Rarely,No,14,10,6,11
+RM1217,Sales,Sales Executive,2,Travel_Rarely,Yes,10,9,8,8
+RM1317,Sales,Sales Executive,2,Travel_Frequently,No,7,7,7,7
+RM659,Research & Development,Research Scientist,1,Travel_Rarely,Yes,8,7,7,1
+RM876,Research & Development,Research Scientist,2,Travel_Rarely,No,20,11,13,17
+RM892,Research & Development,Research Scientist,1,Travel_Rarely,No,10,5,7,7
+RM923,Research & Development,Manager,5,Travel_Rarely,No,25,9,14,13
+RM1215,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,8,7,6,7
+RM312,Research & Development,Laboratory Technician,3,Travel_Frequently,No,24,9,9,11
+RM806,Sales,Sales Executive,2,Non-Travel,No,15,10,4,12
+RM1100,Research & Development,Healthcare Representative,3,Travel_Rarely,No,10,8,7,7
+RM1144,Sales,Sales Executive,2,Non-Travel,No,10,7,4,5
+RM1161,Research & Development,Manufacturing Director,2,Travel_Rarely,No,10,7,3,9
+RM1226,Research & Development,Research Director,4,Travel_Rarely,No,21,6,8,6
+RM179,Sales,Sales Executive,3,Travel_Rarely,No,24,13,15,7
+RM593,Research & Development,Manager,4,Travel_Rarely,Yes,26,14,3,0
+RM708,Research & Development,Manufacturing Director,2,Travel_Frequently,Yes,19,10,2,7
+RM130,Research & Development,Manufacturing Director,2,Travel_Rarely,No,15,11,5,11
+RM478,Human Resources,Manager,5,Travel_Frequently,No,32,5,10,7
+RM524,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,20,8,3,8
+RM654,Research & Development,Manager,4,Non-Travel,No,31,6,14,7
+RM1087,Research & Development,Research Director,4,Travel_Frequently,Yes,32,6,13,9
+RM238,Sales,Manager,5,Non-Travel,Yes,33,7,15,12
+RM915,Research & Development,Healthcare Representative,4,Non-Travel,Yes,33,9,15,0
+RM1117,Sales,Manager,5,Travel_Rarely,No,36,6,2,13
+RM939,Research & Development,Research Scientist,1,Travel_Rarely,No,2,2,2,2
+RM916,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,2,2
+RM797,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,7,7,5,6
+RM694,Sales,Sales Executive,3,Travel_Rarely,Yes,16,7,3,7
+RM753,Research & Development,Laboratory Technician,1,Travel_Rarely,No,17,13,15,14
+RM046,Research & Development,Research Director,5,Travel_Rarely,No,22,15,15,8
+RM367,Sales,Sales Executive,2,Travel_Frequently,No,8,7,7,7
+RM1280,Research & Development,Research Scientist,1,Travel_Frequently,Yes,5,3,2,3
+RM090,Sales,Sales Executive,3,Travel_Rarely,No,9,8,4,7
+RM272,Research & Development,Manager,3,Non-Travel,Yes,10,7,9,9
+RM608,Sales,Sales Executive,3,Travel_Rarely,No,9,8,7,7
+RM750,Sales,Manager,5,Travel_Rarely,No,32,14,6,9
+RM127,Research & Development,Healthcare Representative,3,Travel_Rarely,No,40,10,15,6
+RM135,Human Resources,Human Resources,1,Travel_Rarely,No,8,7,5,7
+RM913,Research & Development,Research Scientist,1,Travel_Rarely,Yes,8,5,2,2
+RM1207,Research & Development,Laboratory Technician,1,Non-Travel,No,7,7,5,7
+RM1329,Sales,Sales Representative,2,Travel_Rarely,No,9,8,5,8
+RM613,Sales,Sales Executive,2,Travel_Rarely,Yes,8,7,7,5
+RM045,Research & Development,Laboratory Technician,2,Travel_Frequently,No,12,8,3,7
+RM212,Research & Development,Manufacturing Director,3,Non-Travel,No,11,8,5,8
+RM326,Research & Development,Manufacturing Director,3,Travel_Frequently,No,10,9,8,9
+RM1390,Research & Development,Research Scientist,2,Travel_Frequently,No,10,8,8,7
+RM027,Research & Development,Research Scientist,1,Travel_Frequently,Yes,10,2,6,
+RM061,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,9,8,7,8
+RM881,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,2,2
+RM793,Research & Development,Research Scientist,2,Travel_Frequently,No,13,7,3,8
+RM1399,Research & Development,Healthcare Representative,2,Travel_Frequently,No,9,7,2,8
+RM1301,Sales,Sales Executive,2,Travel_Rarely,No,10,8,4,8
+RM1354,Research & Development,Research Scientist,1,Non-Travel,Yes,5,2,3,0
+RM1385,Sales,Sales Executive,3,Travel_Rarely,No,14,8,2,1
+RM636,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,17,14,5,15
+RM126,Research & Development,Research Scientist,1,Travel_Rarely,No,5,4,4,3
+RM285,Research & Development,Healthcare Representative,2,Travel_Frequently,Yes,5,3,3,3
+RM294,Sales,Sales Executive,2,Travel_Rarely,Yes,8,7,7,4
+RM356,Sales,Sales Executive,2,Travel_Rarely,No,8,7,7,7
+RM834,Research & Development,Research Scientist,1,Travel_Rarely,No,4,2,2,2
+RM890,Research & Development,Research Scientist,1,Travel_Rarely,Yes,9,7,6,8
+RM997,Sales,Sales Executive,2,Travel_Rarely,Yes,6,2,4,4
+RM998,Research & Development,Research Scientist,1,Travel_Rarely,Yes,8,2,7,7
+RM052,Research & Development,Laboratory Technician,1,Travel_Rarely,Yes,2,2,2,2
+RM794,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,2,2,2
+RM869,Research & Development,Laboratory Technician,1,Travel_Rarely,No,6,5,3,3
+RM930,Research & Development,Laboratory Technician,1,Travel_Frequently,Yes,2,2,2,2
+RM1324,Human Resources,Human Resources,1,Non-Travel,No,3,2,2,2
+RM016,Research & Development,Manufacturing Director,3,Travel_Rarely,No,10,9,8,8
+RM228,Sales,Sales Executive,3,Travel_Frequently,No,11,10,4,1
+RM520,Research & Development,Research Scientist,1,Travel_Frequently,No,10,7,2,8
+RM556,Sales,Sales Representative,1,Travel_Rarely,No,2,2,2,2
+RM837,Sales,Sales Executive,3,Travel_Rarely,No,11,8,3,10
+RM1250,Sales,Sales Representative,1,Travel_Rarely,No,2,2,2,2
+RM1319,Research & Development,Laboratory Technician,1,Travel_Frequently,No,11,8,3,10
+RM081,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,10,8,3,0
+RM089,Research & Development,Healthcare Representative,2,Travel_Rarely,No,11,10,10,8
+RM093,Sales,Sales Executive,2,Travel_Rarely,Yes,11,8,2,7
+RM174,Research & Development,Laboratory Technician,2,Non-Travel,No,12,9,6,10
+RM875,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,7,8,9
+RM1107,Sales,Sales Executive,2,Travel_Rarely,No,10,8,6,7
+RM013,Research & Development,Research Scientist,1,Travel_Rarely,No,5,2,4,3
+RM293,Sales,Sales Representative,1,Travel_Frequently,No,2,2,2,2
+RM343,Research & Development,Manufacturing Director,3,Travel_Rarely,Yes,11,9,4,10
+RM395,Research & Development,Manufacturing Director,2,Travel_Rarely,No,13,10,3,12
+RM400,Research & Development,Laboratory Technician,1,Travel_Rarely,No,4,2,3,2
+RM832,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,2,2
+RM951,Sales,Sales Executive,3,Non-Travel,Yes,10,8,9,6
+RM953,Sales,Sales Representative,1,Travel_Frequently,Yes,3,2,2,2
+RM986,Research & Development,Manufacturing Director,2,Travel_Rarely,Yes,10,2,6,7
+RM1031,Sales,Sales Executive,3,Travel_Rarely,No,13,7,9,9
+RM1034,Research & Development,Manufacturing Director,3,Travel_Frequently,No,10,8,4,7
+RM1086,Research & Development,Research Scientist,1,Travel_Frequently,No,7,2,7,7
+RM1275,Sales,Sales Executive,2,Travel_Rarely,No,12,7,5,7
+RM1383,Research & Development,Research Scientist,1,Non-Travel,Yes,4,2,2,3
+RM095,Sales,Sales Executive,2,Travel_Rarely,No,11,8,5,7
+RM155,Sales,Sales Executive,3,Travel_Frequently,No,9,8,3,7
+RM211,Sales,Sales Executive,3,Travel_Rarely,No,14,8,9,
+RM307,Sales,Sales Executive,2,Travel_Rarely,No,13,8,4,8
+RM320,Sales,Sales Executive,2,Travel_Rarely,Yes,13,12,11,9
+RM559,Research & Development,Laboratory Technician,2,Travel_Frequently,No,10,8,4,7
+RM601,Research & Development,Manufacturing Director,2,Travel_Rarely,No,14,13,6,8
+RM642,Sales,Sales Executive,2,Travel_Frequently,No,10,8,5,3
+RM693,Research & Development,Manufacturing Director,2,Travel_Rarely,No,8,7,6,3
+RM1427,Research & Development,Laboratory Technician,1,Travel_Rarely,No,6,2,4,1
+RM1432,Sales,Sales Executive,3,Travel_Rarely,No,14,10,5,7
+RM004,Research & Development,Research Scientist,1,Travel_Frequently,Yes,8,7,3,0
+RM056,Research & Development,Research Director,3,Travel_Frequently,Yes,15,14,8,12
+RM515,Research & Development,Research Scientist,1,Travel_Frequently,Yes,10,8,9,7
+RM563,Research & Development,Research Scientist,1,Travel_Rarely,Yes,10,9,7,8
+RM711,Sales,Manager,4,Non-Travel,No,10,8,6,0
+RM1096,Research & Development,Laboratory Technician,2,Travel_Rarely,Yes,15,14,5,7
+RM1211,Research & Development,Laboratory Technician,1,Travel_Rarely,No,14,11,2,13
+RM104,Research & Development,Research Scientist,2,Travel_Rarely,No,16,13,2,10
+RM203,Research & Development,Research Scientist,1,Travel_Frequently,Yes,5,3,2,0
+RM463,Sales,Sales Executive,2,Travel_Rarely,No,10,7,5,7
+RM504,Research & Development,Research Scientist,1,Travel_Rarely,No,10,9,8,8
+RM525,Research & Development,Healthcare Representative,3,Travel_Rarely,No,8,7,7,7
+RM965,Sales,Sales Executive,2,Travel_Rarely,No,10,8,9,6
+RM984,Research & Development,Healthcare Representative,2,Travel_Rarely,No,14,11,4,11
+RM1040,Human Resources,Human Resources,1,Travel_Rarely,No,2,2,2,2
+RM1085,Sales,Sales Executive,3,Travel_Rarely,Yes,10,9,8,6
+RM1132,Research & Development,Healthcare Representative,2,Travel_Frequently,No,8,2,7,7
+RM1147,Research & Development,Manufacturing Director,2,Travel_Frequently,No,9,7,7,2
+RM1180,Research & Development,Research Scientist,2,Travel_Rarely,No,11,8,7,9
+RM1209,Research & Development,Laboratory Technician,2,Travel_Rarely,No,15,10,4,13
+RM1213,Research & Development,Research Scientist,1,Travel_Rarely,No,10,9,8,7
+RM1369,Research & Development,Research Scientist,2,Travel_Frequently,Yes,15,10,6,11
+RM038,Sales,Sales Representative,1,Travel_Rarely,No,2,2,2,2
+RM509,Research & Development,Research Scientist,2,Travel_Rarely,No,17,11,11,8
+RM637,Research & Development,Research Scientist,1,Travel_Frequently,Yes,10,2,7,8
+RM730,Research & Development,Healthcare Representative,3,Travel_Rarely,Yes,16,10,10,1
+RM849,Research & Development,Laboratory Technician,1,Travel_Frequently,No,2,2,2,2
+RM1082,Research & Development,Healthcare Representative,3,Travel_Rarely,No,11,8,3,3
+RM1131,Research & Development,Laboratory Technician,2,Travel_Rarely,No,10,9,6,8
+RM1158,Research & Development,Healthcare Representative,2,Non-Travel,No,14,11,2,9
+RM1282,Sales,Sales Executive,2,Travel_Rarely,Yes,10,7,7,7
