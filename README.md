@@ -1,4 +1,4 @@
-# HR Analytics Project – Excel, SQL & Power BI
+ # HR Analytics Project – Excel, SQL & Power BI
 
 ## Project Overview
 This HR Analytics project focuses on analyzing employee data to understand workforce trends, employee performance, attrition, salary patterns, department-wise information, and other HR-related factors. The project follows a complete data analytics workflow, starting with data preparation in **Microsoft Excel**, followed by analysis using **MySQL/SQL**, and finally creating an interactive **Power BI dashboard** to communicate insights clearly.
