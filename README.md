@@ -3,7 +3,7 @@
 ## Project Overview
 This HR Analytics project focuses on analyzing employee data to understand workforce trends, employee performance, attrition, salary patterns, department-wise information, and other HR-related factors. The project follows a complete data analytics workflow, starting with data preparation in **Microsoft Excel**, followed by analysis using **MySQL/SQL**, and finally creating an interactive **Power BI dashboard** to communicate insights clearly.
 
-## 1. Data Preparation & Analysis Using Exce
+## 1. Data Preparation & Analysis Using Excel
 The project started with **Microsoft Excel** to inspect, clean, and organize the raw HR data.
 
 Excel was used to:
